@@ -153,3 +153,12 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
 | Xamarin | Free | https://visualstudio.microsoft.com/pt-br/xamarin/ |
 
+## 12. Testes de API Rest
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Insomnia     | Free + $$     |  https://insomnia.rest/   |
+| Postman | Free + $$ | https://www.postman.com/downloads/ |
+| Swagger | Free | https://swagger.io/ |
+
+
