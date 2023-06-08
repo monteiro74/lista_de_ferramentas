@@ -33,19 +33,63 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 
 ## 3. IDEs
 
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Codeblocks   | Free | https://www.codeblocks.org/ |
+| Microsoft Visual Studio Community | Free | https://visualstudio.microsoft.com/pt-br/vs/community/|
+| Delphi | Free + $$ | https://www.embarcadero.com/products/delphi/starter |
+| C++ Builder | Free + $$ | https://www.embarcadero.com/products/cbuilder/starter |
+| Dev-C++ | Free | https://www.embarcadero.com/free-tools/dev-cpp |
+| IDE Komodo | Free | https://www.activestate.com/products/komodo-ide/ |
+
+Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
+
+
 ## 4. Editores de códigos
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Visual Studio Code | Free | https://code.visualstudio.com/ |
+| Notepad++ | Free | https://notepad-plus-plus.org/downloads/ |
 
 ## 5. Administração de banco de dados
 
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
+
 ## 6. Prototipação
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
 
 ## 7. Git, e versionamento
 
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
+
 ## 8. Gestão de tickets
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
 
 ## 9. Notebooks
 
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
+
 ## 10. Distro Linux p/ devs
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
 
 ## 11. Desenvolvimento Mobile
 
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
