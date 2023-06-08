@@ -21,6 +21,10 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | Visual Paradigm Community Edition | Free | https://www.visual-paradigm.com/solution/freeumltool/ |
+| Astah para alunos | O aluno deve se candidatar a versão grátis | https://astah.net/products/free-student-license/ |
+| Astah UML | Tem uma versão Demo para download | https://astah.net/downloads/ |
+
+
 
 ## 3. IDEs
 
