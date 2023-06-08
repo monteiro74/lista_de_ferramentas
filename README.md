@@ -41,6 +41,10 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | C++ Builder | Free + $$ | https://www.embarcadero.com/products/cbuilder/starter |
 | Dev-C++ | Free | https://www.embarcadero.com/free-tools/dev-cpp |
 | IDE Komodo | Free | https://www.activestate.com/products/komodo-ide/ |
+| Oracle JDeveloper | Free + $$ | https://www.oracle.com/application-development/technologies/jdeveloper.html |
+| Spyder | Free, IDE para Python | https://www.spyder-ide.org/ |
+| QT designer | $$ | https://www.qt.io/download |
+| Code Lite | Free | https://codelite.org/ |
 
 Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
 
@@ -51,6 +55,9 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | ------------ | ------------- | --- |
 | Visual Studio Code | Free | https://code.visualstudio.com/ |
 | Notepad++ | Free | https://notepad-plus-plus.org/downloads/ |
+| Atom | Morto em 2022 | https://github.blog/2022-06-08-sunsetting-atom/ |
+| Pulsar | Fork do Atom | https://github.com/pulsar-edit/pulsar |
+
 
 ## 5. Administração de banco de dados
 
