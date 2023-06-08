@@ -45,6 +45,21 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Spyder | Free, IDE para Python | https://www.spyder-ide.org/ |
 | QT designer | $$ | https://www.qt.io/download |
 | Code Lite | Free | https://codelite.org/ |
+| BlueJ | Free | https://www.bluej.org/ |
+| Dev-pascal | Free | http://bloodshed.net/Dev-Pascal |
+| U++ Framework | Free | https://www.ultimatepp.org/ |
+
+
+### 3.1. Lazarus e suas variações
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Lazarus      | Free          | https://www.lazarus-ide.org/index.php |
+| CodeTyphon Studio | Free | https://www.pilotlogic.com/sitejoom/ |
+| Free Pascal | Free | https://www.freepascal.org/download.html |
+| LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
+
+
 
 Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
 
@@ -57,6 +72,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Notepad++ | Free | https://notepad-plus-plus.org/downloads/ |
 | Atom | Morto em 2022 | https://github.blog/2022-06-08-sunsetting-atom/ |
 | Pulsar | Fork do Atom | https://github.com/pulsar-edit/pulsar |
+| Light Table | Free | http://lighttable.com/ |
 
 
 ## 5. Administração de banco de dados
