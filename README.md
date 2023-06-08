@@ -56,7 +56,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 
 
 
-### 3.1. Lazarus e suas variações
+### 3.1. Turbo Pascal, Delphi, Lazarus e suas variações
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
