@@ -16,8 +16,7 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 11. Desenvolvimento Mobile
 12. Testes de API Rest
 
-
-
+---
 ## 1. Modelagem de banco de dados, diagrama entidade relacionamento
 
 | Ferramenta   | Comentário    | URL |
@@ -30,7 +29,7 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 | Beekeeper studio | $$$ | https://www.beekeeperstudio.io/ |
 | Draw IO | Free | https://www.drawio.com/ |
 
-
+---
 ## 2. Modelagem UML, diagramas UML
 
 | Ferramenta   | Comentário    | URL |
@@ -46,6 +45,7 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
 
+---
 ## 3. IDEs
 
 | Ferramenta   | Comentário    | URL |
@@ -88,6 +88,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
 
 
+---
 ## 4. Editores de códigos
 
 | Ferramenta   | Comentário    | URL |
@@ -101,7 +102,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 
-
+---
 ## 5. Administração de banco de dados
 
 | Ferramenta   | Comentário    | URL |
@@ -120,25 +121,30 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 
-
+---
 ## 6. Prototipação
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 |              |               |     |
 
+
+
+---
 ## 7. Git, e versionamento
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 |              |               |     |
 
+---
 ## 8. Gestão de tickets
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 |              |               |     |
 
+---
 ## 9. Notebooks
 
 | Ferramenta   | Comentário    | URL |
@@ -154,11 +160,13 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Replit | Free + $$ | https://replit.com/ |
 
 
-
+---
 ## 10. Distro Linux p/ devs
 
 Página comentando várias linux sob o ponto de vista do desenvolvimento, https://www.vpsserver.com/best-linux-distros-for-programming/.
 
+
+---
 ## 11. Desenvolvimento Mobile
 
 | Ferramenta   | Comentário    | URL |
@@ -167,6 +175,8 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
 | Xamarin | Free | https://visualstudio.microsoft.com/pt-br/xamarin/ |
 
+
+---
 ## 12. Testes de API Rest
 
 | Ferramenta   | Comentário    | URL |
