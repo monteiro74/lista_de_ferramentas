@@ -64,7 +64,8 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | CodeTyphon Studio | Free | https://www.pilotlogic.com/sitejoom/ |
 | Free Pascal | Free | https://www.freepascal.org/download.html |
 | LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
-| Smart Mobile Studio | Free + $$ | https://smartmobilestudio.com/ |
+| Smart Mobile Studio | $$ | https://smartmobilestudio.com/ |
+| Elevate Web Builder | $$ | https://www.elevatesoft.com/products?category=ewb |
 
 
 
