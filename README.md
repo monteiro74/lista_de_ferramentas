@@ -43,6 +43,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Oracle JDeveloper | Free + $$ | https://www.oracle.com/application-development/technologies/jdeveloper.html |
 | Spyder | Free, IDE para Python | https://www.spyder-ide.org/ |
 | QT designer | $$ | https://www.qt.io/download |
+| QT Creator | Free | https://build-system.fman.io/qt-designer-download |
 | Code Lite | Free | https://codelite.org/ |
 | Code Blocks | Free | http://www.codeblocks.org/ |
 | BlueJ | Free | https://www.bluej.org/ |
@@ -63,6 +64,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | CodeTyphon Studio | Free | https://www.pilotlogic.com/sitejoom/ |
 | Free Pascal | Free | https://www.freepascal.org/download.html |
 | LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
+| Smart Mobile Studio | Free + $$ | https://smartmobilestudio.com/ |
 
 
 
@@ -92,6 +94,12 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
 | Oracle SQL Developer | Free | https://www.oracle.com/database/sqldeveloper/ |
 | MS SQL Management Studio | Free | https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 |
+| SQL Manager | Free | https://www.sqlmanager.net/tools/free |
+| phpMyAdmin | Free | https://www.phpmyadmin.net/ |
+| SQLyog Community | Free | https://github.com/webyog/sqlyog-community/wiki/Downloads |
+| Toad for MySQL | $$$ | https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
+
+
 
 
 
