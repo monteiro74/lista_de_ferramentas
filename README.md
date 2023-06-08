@@ -127,7 +127,17 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-|              |               |     |
+| Google Colaboratory | Free | https://colab.research.google.com/ |
+| Jupiter notebooks | Free | https://jupyter.org/try |
+| Anaconda | Free | https://anaconda.org/ |
+| Terraform | Free + $$ | https://app.terraform.io/public/signup/account |
+| Paperspace | Free + $$ | https://www.paperspace.com/pricing |
+| Deepnote | Free + $$ | https://deepnote.com/pricing |
+| Notable | Free + $$ | https://noteable.io/pricing/  |
+| Kaggle | Free | https://www.kaggle.com/code |
+| Replit | Free + $$ | https://replit.com/ |
+
+
 
 ## 10. Distro Linux p/ devs
 
