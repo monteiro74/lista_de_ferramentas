@@ -90,7 +90,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-| MySQL Workbench | Free |     | https://dev.mysql.com/downloads/workbench/ |
+| MySQL Workbench | Free    | https://dev.mysql.com/downloads/workbench/ |
 | HeidiSQL | Free | https://www.heidisql.com/download.php |
 | DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
 | Oracle SQL Developer | Free | https://www.oracle.com/database/sqldeveloper/ |
