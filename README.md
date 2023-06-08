@@ -7,13 +7,12 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | MySQL Workbench | Problemas com MariaDB | https://dev.mysql.com/downloads/workbench/    |
-| DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |     
 | dbForge Studio for MySQL | $$$ | https://www.devart.com/dbforge/mysql/studio/    |     
-| HeidiSQL     | Free, bom com MariaDB | https://www.heidisql.com/    |     
 | ERDPluss     | Free, funciona online |  https://erdplus.com/faq    |
 | DbGate       | Free           | https://dbgate.org/  |     
 | Valentina Studio | Free + $$ | https://www.valentina-db.com/en/valentina-studio-overview |
 | Beekeeper studio | $$$ | https://www.beekeeperstudio.io/ |
+| Draw IO | Free | https://www.drawio.com/ |
 
 
 ## 2. Modelagem UML, diagramas UML
@@ -45,9 +44,15 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Spyder | Free, IDE para Python | https://www.spyder-ide.org/ |
 | QT designer | $$ | https://www.qt.io/download |
 | Code Lite | Free | https://codelite.org/ |
+| Code Blocks | Free | http://www.codeblocks.org/ |
 | BlueJ | Free | https://www.bluej.org/ |
 | Dev-pascal | Free | http://bloodshed.net/Dev-Pascal |
 | U++ Framework | Free | https://www.ultimatepp.org/ |
+| Eric Python IDE | Free | http://eric-ide.python-projects.org/index.html |
+| Android Studio | Free | https://developer.android.com/studio |
+| Codux | Free | https://www.codux.com/ |
+
+
 
 
 ### 3.1. Lazarus e suas variações
@@ -73,13 +78,23 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Atom | Morto em 2022 | https://github.blog/2022-06-08-sunsetting-atom/ |
 | Pulsar | Fork do Atom | https://github.com/pulsar-edit/pulsar |
 | Light Table | Free | http://lighttable.com/ |
+| Geany | Free | https://geany.org/ |
+
+
 
 
 ## 5. Administração de banco de dados
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-|              |               |     |
+| MySQL Workbench | Free |     | https://dev.mysql.com/downloads/workbench/ |
+| HeidiSQL | Free | https://www.heidisql.com/download.php |
+| DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
+| Oracle SQL Developer | Free | https://www.oracle.com/database/sqldeveloper/ |
+| MS SQL Management Studio | Free | https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 |
+
+
+
 
 ## 6. Prototipação
 
@@ -115,4 +130,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-|              |               |     |
+| Android Studio | Free | https://developer.android.com/studio |
+| LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
+| Xamarin | Free | https://visualstudio.microsoft.com/pt-br/xamarin/ |
+
