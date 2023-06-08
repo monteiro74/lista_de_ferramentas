@@ -23,8 +23,13 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 | Visual Paradigm Community Edition | Free | https://www.visual-paradigm.com/solution/freeumltool/ |
 | Astah para alunos | O aluno deve se candidatar a versão grátis | https://astah.net/products/free-student-license/ |
 | Astah UML | Tem uma versão Demo para download | https://astah.net/downloads/ |
+| Modelio | Free | https://www.modelio.org/index.htm |
+| Star UML | Free | https://staruml.io/ |
+| WhiteStarUML | Free | https://sourceforge.net/projects/whitestaruml/ e https://github.com/dimon4ezzz/whitestaruml|
+| Violet UML Editor | Free | https://sourceforge.net/projects/violet/ |
+| Plant UML | Free | https://plantuml.com/ |
 
-
+Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
 
 ## 3. IDEs
 
