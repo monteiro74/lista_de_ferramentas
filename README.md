@@ -18,6 +18,10 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 
 ## 2. Modelagem UML, diagramas UML
 
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Visual Paradigm Community Edition | Free | https://www.visual-paradigm.com/solution/freeumltool/ |
+
 ## 3. IDEs
 
 ## 4. Editores de códigos
