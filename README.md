@@ -157,9 +157,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 ## 10. Distro Linux p/ devs
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-|              |               |     |
+Página comentando várias linux sob o ponto de vista do desenvolvimento, https://www.vpsserver.com/best-linux-distros-for-programming/.
 
 ## 11. Desenvolvimento Mobile
 
