@@ -2,6 +2,22 @@
 
 Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas e bancos de dados.
 
+
+1. Modelagem de banco de dados, diagrama entidade relacionamento
+2. Modelagem UML, diagramas UML
+3. IDEs
+4. Editores de códigos
+5. Administração de banco de dados
+6. Prototipação
+7. Git, e versionamento
+8. Gestão de tickets
+9. Notebooks
+10. Distro Linux p/ devs
+11. Desenvolvimento Mobile
+12. Testes de API Rest
+
+
+
 ## 1. Modelagem de banco de dados, diagrama entidade relacionamento
 
 | Ferramenta   | Comentário    | URL |
