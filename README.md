@@ -3,34 +3,9 @@
 Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas e bancos de dados.
 
 
-1. Modelagem de banco de dados, diagrama entidade relacionamento
-2. Modelagem UML, diagramas UML
-3. IDEs
-4. Editores de códigos
-5. Administração de banco de dados
-6. Prototipação
-7. Git, e versionamento
-8. Gestão de tickets
-9. Notebooks
-10. Distro Linux p/ devs
-11. Desenvolvimento Mobile
-12. Testes de API Rest
 
 ---
-## 1. Modelagem de banco de dados, diagrama entidade relacionamento
-
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| MySQL Workbench | Problemas com MariaDB | https://dev.mysql.com/downloads/workbench/    |
-| dbForge Studio for MySQL | $$$ | https://www.devart.com/dbforge/mysql/studio/    |     
-| ERDPluss     | Free, funciona online |  https://erdplus.com/faq    |
-| DbGate       | Free           | https://dbgate.org/  |     
-| Valentina Studio | Free + $$ | https://www.valentina-db.com/en/valentina-studio-overview |
-| Beekeeper studio | $$$ | https://www.beekeeperstudio.io/ |
-| Draw IO | Free | https://www.drawio.com/ |
-
----
-## 2. Modelagem UML, diagramas UML
+## 1. Modelagem UML, diagramas UML
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -45,6 +20,22 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 | ERDPlus | | https://erdplus.com/ |
 
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
+
+---
+## 2. Modelagem de banco de dados, diagrama entidade relacionamento
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| MySQL Workbench | Problemas com MariaDB | https://dev.mysql.com/downloads/workbench/    |
+| dbForge Studio for MySQL | $$$ | https://www.devart.com/dbforge/mysql/studio/    |     
+| ERDPluss     | Free, funciona online |  https://erdplus.com/faq    |
+| DbGate       | Free           | https://dbgate.org/  |     
+| Valentina Studio | Free + $$ | https://www.valentina-db.com/en/valentina-studio-overview |
+| Beekeeper studio | $$$ | https://www.beekeeperstudio.io/ |
+| Draw IO | Free | https://www.drawio.com/ |
+| BR Modelo | Free | https://www.brmodeloweb.com/lang/pt-br/index.html |
+
+
 
 ---
 ## 3. IDEs
@@ -178,6 +169,8 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Android Studio | Free | https://developer.android.com/studio |
 | LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
 | Xamarin | Free | https://visualstudio.microsoft.com/pt-br/xamarin/ |
+| B4A | $ | https://www.b4x.com/b4a.html |
+| Tizen | Free | https://www.tizen.org/ |
 
 
 ---
@@ -272,6 +265,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | OurSQL | Free | https://github.com/gelembjuk/oursql |
 | QRI | | https://qri.io/ |
 | InfluxData | | https://www.influxdata.com/ |
+| Database os Database | Free | https://dbdb.io/ |
+| Db-fiddle | Free | https://www.db-fiddle.com/ |
+| db 4 free | Free | https://www.db4free.net/index.php?language=pt |
+
 
 ---
 ## 20. Mapas, Geo, GIS, GPS e Georreferência
@@ -304,4 +301,27 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | ------------ | ------------- | --- |
 | MindsDB |  |  https://mindsdb.com/mariadb-machine-learning   |
 | Anaconda | | https://anaconda.org/anaconda/notebook |
+| PHP-ML | Free | https://php-ml.readthedocs.io/en/latest/ |
+
+
+---
+## 23. Documentação
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Doxygen | Free | https://www.doxygen.nl/    |
+| Sphinx-doc | Free | https://www.sphinx-doc.org/en/master/index.html |
+
+
+---
+## 24. Gerador de dados de testes, dados artificiais
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Mostly | Free | https://mostly.ai/ |
+| onlinedatagenerator| Free | https://www.onlinedatagenerator.com/ |
+| generatedata | Free | https://generatedata.com/ |
+| mockaroo | Free | https://www.mockaroo.com/ |
+
+Outras listas: Ferramentas para análise estática de código: https://github.com/analysis-tools-dev/static-analysis#csharp
 
