@@ -441,6 +441,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Kanboard | Free | https://kanboard.org/ |
 | dotProject | Free | https://dotproject.net/ |
 | Zentao | Free | https://www.zentao.pm/page/zentao-pricing.html |
+| qdpm | Free | https://qdpm.net/ |
 
 
 ---
