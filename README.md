@@ -42,6 +42,7 @@ Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas
 | WhiteStarUML | Free | https://sourceforge.net/projects/whitestaruml/ e https://github.com/dimon4ezzz/whitestaruml|
 | Violet UML Editor | Free | https://sourceforge.net/projects/violet/ |
 | Plant UML | Free | https://plantuml.com/ |
+| ERDPlus | | https://erdplus.com/ |
 
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
 
@@ -68,6 +69,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Eric Python IDE | Free | http://eric-ide.python-projects.org/index.html |
 | Android Studio | Free | https://developer.android.com/studio |
 | Codux | Free | https://www.codux.com/ |
+| Glade IDE | Free | https://gitlab.gnome.org/GNOME/glade |
 
 
 
@@ -118,15 +120,17 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Toad for MySQL | $$$ | https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
 
 
-
-
-
 ---
-## 6. Prototipação
+## 6. Prototipação, Wireframe, Mockups
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-|              |               |     |
+| Evolus Project Pencil | Free | https://pencil.evolus.vn/ |
+| Glade | Free | https://gitlab.gnome.org/GNOME/glade |
+| Balsamiq | $ | https://balsamiq.com/buy/#cloud |
+| Justinmind | Free + $ | https://www.justinmind.com/pricing |
+| Figma | Free + $ | https://www.figma.com/pricing/ |
+| FlutterFlow | Free + $ | https://flutterflow.io/ |
 
 
 
@@ -217,19 +221,27 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Nethereum blockchain | | https://nethereum.com/ e https://github.com/Nethereum/Nethereum.UI.Desktop |
 | Embark | | https://framework.embarklabs.io/ |
 
+---
 ## 15. Algoritmos
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | Visual G3    | Free          | https://visualg3.com.br/    |
+| algorithm-visualizer | Free | https://algorithm-visualizer.org/ |
+| Flowchartocode | $ | http://www.cocodex.com/flowchart-to-code/index.html |
+| Flowgorithm | Free | http://www.flowgorithm.org/index.html | 
 
-## 16. DAG directed acyclic graph
+---
+## 16. DAG (directed acyclic graph), P2P (Peer-to-peer)
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-| IPFS    | Free          | https://ipfs.tech/   |
+| IPFS | Free | https://docs.ipfs.tech/reference/http/api/ |
+| PeerJS | Free | https://peerjs.com/ |
+| Dat | Free | https://dat-ecosystem.org/ |
 
 
+---
 ## 17. Low Code, Gerador de código, CASE
 
 | Ferramenta   | Comentário    | URL |
@@ -238,6 +250,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Softwell Maker | $$$ | https://softwell.com.br/ |
 | Outsystems | $$$ | https://www.outsystems.com/pricing-and-editions/ |
 
+---
 ## 18. Javascript
 
 | Ferramenta   | Comentário    | URL |
@@ -246,6 +259,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Leafleetjs | Free | https://leafletjs.com/examples/quick-start/ |
 
 
+---
 ## 19. Bancos de dados
 
 | Ferramenta   | Comentário    | URL |
@@ -259,6 +273,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | QRI | | https://qri.io/ |
 | InfluxData | | https://www.influxdata.com/ |
 
+---
 ## 20. Mapas, Geo, GIS, GPS e Georreferência
 
 | Ferramenta   | Comentário    | URL |
@@ -272,16 +287,21 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | TerraBrasilis | | http://terrabrasilis.dpi.inpe.br/servicos-disponiveis/ |
 | Traccar | | https://www.traccar.org/geofences/ |
 
+---
 ## 21. Visualização de dados
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | Rawgraphs |  | https://www.rawgraphs.io/    |
 | Grafana | | https://grafana.com/oss/graphite/ |
+| MS Power BI | Free + $ | https://powerbi.microsoft.com/en-au/ |
+| Looker Studio | Free + $ | https://lookerstudio.google.com/overview |
 
+---
 ## 22. Machine learning
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-| MindsDB             |               |  https://mindsdb.com/mariadb-machine-learning   |
+| MindsDB |  |  https://mindsdb.com/mariadb-machine-learning   |
+| Anaconda | | https://anaconda.org/anaconda/notebook |
 
