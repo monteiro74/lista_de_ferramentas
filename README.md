@@ -1,7 +1,33 @@
 # lista_de_ferramentas
 
-Lista de ferramentas para modelage, documentação e desenvolvimento de sistemas e bancos de dados.
+Lista de ferramentas para modelagem, documentação e desenvolvimento de sistemas e bancos de dados.
 
+1. Modelagem UML, diagramas UML
+2. Modelagem de banco de dados, diagrama entidade relacionamento
+3. Bancos de dados
+4. Administração de banco de dados
+6. IDEs
+6.1. Turbo Pascal, Delphi, Lazarus e suas variações
+7. Editores de códigos
+8. Prototipação, Wireframe, Mockups
+9. Git, e versionamento
+10. Gestão de tickets
+11. Notebooks
+12. Distro Linux p/ devs
+13. Desenvolvimento Mobile
+14. Testes de API Rest
+15. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
+16. Blockchain
+17. Algoritmos
+18. DAG (directed acyclic graph), P2P (Peer-to-peer)
+19. Low Code, Gerador de código, CASE
+20. Javascript
+21. Mapas, Geo, GIS, GPS e Georreferência
+22. Visualização de dados
+23. Machine learning
+24. Documentação
+25. Gerador de dados de testes, dados artificiais
+26. Instaladores
 
 
 ---
