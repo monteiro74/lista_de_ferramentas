@@ -276,13 +276,12 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-|              |               |     |
-
-https://www.rawgraphs.io/
-https://grafana.com/oss/graphite/
+| Rawgraphs |  | https://www.rawgraphs.io/    |
+| Grafana | | https://grafana.com/oss/graphite/ |
 
 ## 22. Machine learning
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | MindsDB             |               |  https://mindsdb.com/mariadb-machine-learning   |
+
