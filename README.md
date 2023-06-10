@@ -7,9 +7,13 @@ Lista de ferramentas para modelagem, documentação e desenvolvimento de sistema
 [2. Modelagem de banco de dados, diagrama entidade relacionamento](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)
 
 [3. Bancos de dados](3-Bancos-de-dados)
+
 [4. Administração de banco de dados](4-Administração-de-banco-de-dados)
+
 [5. IDEs](5-IDEs)
+
 [6. Editores de códigos](6-Editores-de-códigos)
+
 8. Prototipação, Wireframe, Mockups
 9. Git, e versionamento
 10. Gestão de tickets
