@@ -37,6 +37,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [23. Documentação](#23-documentação)<br>
 [24. Gerador de dados de testes, dados artificiais](#24-gerador-de-dados-de-testes-dados-artificiais)<br>
 [25. Instaladores](#25-instaladores)<br>
+[26. Gerenciamento de projeto, Gantt e Kanban](#26-gerenciamento-de-projeto-gantt-e-kanban)<br>
 
 
 ---
@@ -428,6 +429,18 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | NSIS | Free | https://nsis.sourceforge.io/Main_Page |
 | IzPack | Free | http://izpack.org/ |
 
+
+
+---
+## 26. Gerenciamento de projeto, Gantt e Kanban
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Project Libre | Free | https://sourceforge.net/projects/projectlibre/ |
+| GanttProject | Free | https://www.ganttproject.biz/ |
+| Kanboard | Free | https://kanboard.org/ |
+| dotProject | Free | https://dotproject.net/ |
+| Zentao | Free | https://www.zentao.pm/page/zentao-pricing.html |
 
 
 
