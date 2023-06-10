@@ -186,3 +186,28 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Swagger | Free | https://swagger.io/ |
 
 
+---
+## 13. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| IPFS         | Free          | https://ipfs.tech/ |
+| SIA | Free | https://sia.tech/learn |
+| StorJS | Free + $ | https://www.storj.io/ |
+| OrbitDB | Free | https://github.com/orbitdb |
+| Swarm | | https://ethersphere.github.io/swarm-home/# |
+| Keops | Free | https://keops.cc/ |
+
+---
+## 14. Blockchain
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Multichain | Free + $ | https://www.multichain.com/developers/ |
+| Openchain | Free | https://docs.openchain.org/en/latest/index.html e https://github.com/openchain/docker e https://github.com/openchain |
+| Blockchain BaaS | | https://www.kaleido.io/ |
+| Low Code Blockchain | | https://sparkster.me/# |
+| Covenant SQL | | https://covenantsql.io/ |
+| Credenciais | | https://www.blockcerts.org/ |
+| BlockchainSQL | | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
+
