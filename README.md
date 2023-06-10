@@ -2,6 +2,14 @@
 
 Lista de ferramentas para modelagem, documentação e desenvolvimento de sistemas e bancos de dados.
 
+
+```
+Critérios para uma ferramenta entrar nesta lista:
+1. Material de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
+2. Material foi ou poderá ser usado em sala de aula
+3. Material foi usado durante a pós do PPGCA-Unisinos
+```
+
 [1. Modelagem UML, diagramas UML](#1-Modelagem-UML-diagramas-UML)<br>
 [2. Modelagem de banco de dados, diagrama entidade relacionamento](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
 [3. Bancos de dados](#3-Bancos-de-dados)<br>
@@ -417,3 +425,23 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | NSIS | Free | https://nsis.sourceforge.io/Main_Page |
 | IzPack | Free | http://izpack.org/ |
 
+
+
+
+```
+Aviso: Este material esta recebendo atualizações frequentes. 
+As informações aqui contidas podem ser alteradas sem aviso prévio.
+Primeira postagem em: jun/2023. 
+Última atualização em: jun/2023.
+```
+
+
+
+
+
+```
+Autor: Prof. Dr. Monteiro.
+Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+```
