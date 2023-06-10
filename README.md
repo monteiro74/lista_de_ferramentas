@@ -130,14 +130,21 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-|              |               |     |
+| Github Desktop | Free  | https://desktop.github.com/    |
+| GitKranken ! Free ! https://www.gitkraken.com/ |
+| Source Tree | Free | https://www.sourcetreeapp.com/ |
+| Tortoise | Free | https://tortoisegit.org/ |
+
+Outros clientes para Windows: https://git-scm.com/download/gui/windows
+
 
 ---
 ## 8. Gestão de tickets
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-|              |               |     |
+| OsTicket | Free | https://osticket.com/ |
+| Mantis Bug Tracker | Free | https://www.mantisbt.org/ |
 
 ---
 ## 9. Notebooks
@@ -319,9 +326,9 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | Mostly | Free | https://mostly.ai/ |
-| onlinedatagenerator| Free | https://www.onlinedatagenerator.com/ |
-| generatedata | Free | https://generatedata.com/ |
-| mockaroo | Free | https://www.mockaroo.com/ |
+| Online Data Generator| Free | https://www.onlinedatagenerator.com/ |
+| Generate Data | Free | https://generatedata.com/ |
+| Mockaroo | Free | https://www.mockaroo.com/ |
 
 Outras listas: Ferramentas para análise estática de código: https://github.com/analysis-tools-dev/static-analysis#csharp
 
