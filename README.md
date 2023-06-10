@@ -238,3 +238,51 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Softwell Maker | $$$ | https://softwell.com.br/ |
 | Outsystems | $$$ | https://www.outsystems.com/pricing-and-editions/ |
 
+## 18. Javascript
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| GrapeJS | Free | https://grapesjs.com/    |
+| Leafleetjs | Free | https://leafletjs.com/examples/quick-start/ |
+
+
+## 19. Bancos de dados
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Griddb | | https://griddb.net/en/   |
+| Convenant SQL | | https://covenantsql.io/ |
+| BlockchainSQL | | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
+| OrbitDB | | https://github.com/orbitdb |
+| YDB | | https://ydb.tech/ |
+| OurSQL | Free | https://github.com/gelembjuk/oursql |
+| QRI | | https://qri.io/ |
+| InfluxData | | https://www.influxdata.com/ |
+
+## 20. Mapas, Geo, GIS, GPS e Georreferência
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| GeoPHP | Free | https://geophp.net/ |
+| Mapbender | | https://mapbender.org/en/ |
+| GeoServer | | https://geoserver.org/ |
+| Mapserver | | https://mapserver.org/ |
+| Polymaps | | http://polymaps.org/ex/ |
+| Leafleetjs | | https://leafletjs.com/examples/quick-start/ |
+| TerraBrasilis | | http://terrabrasilis.dpi.inpe.br/servicos-disponiveis/ |
+| Traccar | | https://www.traccar.org/geofences/ |
+
+## 21. Visualização de dados
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+|              |               |     |
+
+https://www.rawgraphs.io/
+https://grafana.com/oss/graphite/
+
+## 22. Machine learning
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| MindsDB             |               |  https://mindsdb.com/mariadb-machine-learning   |
