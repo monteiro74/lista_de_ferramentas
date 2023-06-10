@@ -210,4 +210,31 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Covenant SQL | | https://covenantsql.io/ |
 | Credenciais | | https://www.blockcerts.org/ |
 | BlockchainSQL | | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
+| BSN Spartan | | https://spartan.bsn.foundation/ |
+| BSN service network | | https://bsnbase.io/g/main/index |
+| Hyperledger Fabric | Free | https://hyperledger-fabric.readthedocs.io/en/release-2.2/whatis.html |
+| Hathor | Free | https://hathor.network/ |
+| Nethereum blockchain | | https://nethereum.com/ e https://github.com/Nethereum/Nethereum.UI.Desktop |
+| Embark | | https://framework.embarklabs.io/ |
+
+## 15. Algoritmos
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Visual G3    | Free          | https://visualg3.com.br/    |
+
+## 16. DAG directed acyclic graph
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| IPFS    | Free          | https://ipfs.tech/   |
+
+
+## 17. Low Code, Gerador de código, CASE
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Genexus    | $$$          | https://www.genexus.com/pt/  |
+| Softwell Maker | $$$ | https://softwell.com.br/ |
+| Outsystems | $$$ | https://www.outsystems.com/pricing-and-editions/ |
 
