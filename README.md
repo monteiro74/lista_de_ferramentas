@@ -1,11 +1,11 @@
-# lista_de_ferramentas
+# Lista de Ferramentas
 
 Lista de ferramentas para modelagem, documentação e desenvolvimento de sistemas e bancos de dados.
 
 
 ```
 Critérios para uma ferramenta entrar nesta lista:
-1. As ferramentas aqui citas são materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
+1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
 2. Material foi ou poderá ser usado em sala de aula
 3. Material foi usado durante a pós do PPGCA-Unisinos
 4. Recomendações de tercerios após avaliação
