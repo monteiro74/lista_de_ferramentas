@@ -6,11 +6,10 @@ Lista de ferramentas para modelagem, documentação e desenvolvimento de sistema
 
 [2. Modelagem de banco de dados, diagrama entidade relacionamento](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)
 
-3. Bancos de dados
-4. Administração de banco de dados
-6. IDEs
-6.1. Turbo Pascal, Delphi, Lazarus e suas variações
-7. Editores de códigos
+[3. Bancos de dados](3-Bancos-de-dados)
+[4. Administração de banco de dados](4-Administração-de-banco-de-dados)
+[5. IDEs](5-IDEs)
+[6. Editores de códigos](6-Editores-de-códigos)
 8. Prototipação, Wireframe, Mockups
 9. Git, e versionamento
 10. Gestão de tickets
@@ -99,7 +98,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 
 
 ---
-## 6. IDEs
+## 5. IDEs
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -124,7 +123,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Glade IDE | Free | https://gitlab.gnome.org/GNOME/glade |
 
 
-### 6.1. Turbo Pascal, Delphi, Lazarus e suas variações
+### 5.1. Turbo Pascal, Delphi, Lazarus e suas variações
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -141,7 +140,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 ---
-## 7. Editores de códigos
+## 6. Editores de códigos
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -158,7 +157,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 ---
-## 8. Prototipação, Wireframe, Mockups
+## 7. Prototipação, Wireframe, Mockups
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -172,7 +171,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 ---
-## 9. Git, e versionamento
+## 8. Git, e versionamento
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -188,7 +187,7 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
 
 ---
-## 10. Gestão de tickets
+## 9. Gestão de tickets
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -201,7 +200,7 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
 
 ---
-## 11. Notebooks
+## 10. Notebooks
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -217,7 +216,7 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
 
 ---
-## 12. Distro Linux p/ devs
+## 11. Distro Linux p/ devs
 
 Página comentando várias linux sob o ponto de vista do desenvolvimento, https://www.vpsserver.com/best-linux-distros-for-programming/.
 
@@ -228,7 +227,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 13. Desenvolvimento Mobile
+## 12. Desenvolvimento Mobile
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -246,7 +245,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 14. Testes de API Rest
+## 13. Testes de API Rest
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -259,7 +258,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 15. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
+## 14. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -273,7 +272,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 16. Blockchain
+## 15. Blockchain
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -295,7 +294,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 17. Algoritmos
+## 16. Algoritmos
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -308,7 +307,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 18. DAG (directed acyclic graph), P2P (Peer-to-peer)
+## 17. DAG (directed acyclic graph), P2P (Peer-to-peer)
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -320,7 +319,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 19. Low Code, Gerador de código, CASE
+## 18. Low Code, Gerador de código, CASE
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -331,7 +330,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 20. Javascript
+## 19. Javascript
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -343,7 +342,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 21. Mapas, Geo, GIS, GPS e Georreferência
+## 20. Mapas, Geo, GIS, GPS e Georreferência
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -359,7 +358,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 22. Visualização de dados
+## 21. Visualização de dados
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -372,7 +371,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 23. Machine learning
+## 22. Machine learning
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -384,7 +383,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 24. Documentação
+## 23. Documentação
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -396,7 +395,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 25. Gerador de dados de testes, dados artificiais
+## 24. Gerador de dados de testes, dados artificiais
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -412,7 +411,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 
 
 ---
-## 26. Instaladores
+## 25. Instaladores
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
