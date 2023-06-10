@@ -36,9 +36,42 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | BR Modelo | Free | https://www.brmodeloweb.com/lang/pt-br/index.html |
 
 
+---
+## 3. Bancos de dados
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Griddb | | https://griddb.net/en/   |
+| Convenant SQL | | https://covenantsql.io/ |
+| BlockchainSQL | | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
+| OrbitDB | | https://github.com/orbitdb |
+| YDB | | https://ydb.tech/ |
+| OurSQL | Free | https://github.com/gelembjuk/oursql |
+| QRI | | https://qri.io/ |
+| InfluxData | | https://www.influxdata.com/ |
+| Database os Database | Free | https://dbdb.io/ |
+| Db-fiddle | Free | https://www.db-fiddle.com/ |
+| db 4 free | Free | https://www.db4free.net/index.php?language=pt |
+
 
 ---
-## 3. IDEs
+## 4. Administração de banco de dados
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| MySQL Workbench | Free    | https://dev.mysql.com/downloads/workbench/ |
+| HeidiSQL | Free | https://www.heidisql.com/download.php |
+| DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
+| Oracle SQL Developer | Free | https://www.oracle.com/database/sqldeveloper/ |
+| MS SQL Management Studio | Free | https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 |
+| SQL Manager | Free | https://www.sqlmanager.net/tools/free |
+| phpMyAdmin | Free | https://www.phpmyadmin.net/ |
+| SQLyog Community | Free | https://github.com/webyog/sqlyog-community/wiki/Downloads |
+| Toad for MySQL | $$$ | https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
+
+
+---
+## 6. IDEs
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -63,9 +96,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Glade IDE | Free | https://gitlab.gnome.org/GNOME/glade |
 
 
-
-
-### 3.1. Turbo Pascal, Delphi, Lazarus e suas variações
+### 6.1. Turbo Pascal, Delphi, Lazarus e suas variações
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -82,7 +113,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 ---
-## 4. Editores de códigos
+## 7. Editores de códigos
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -95,24 +126,11 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 
----
-## 5. Administração de banco de dados
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| MySQL Workbench | Free    | https://dev.mysql.com/downloads/workbench/ |
-| HeidiSQL | Free | https://www.heidisql.com/download.php |
-| DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
-| Oracle SQL Developer | Free | https://www.oracle.com/database/sqldeveloper/ |
-| MS SQL Management Studio | Free | https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 |
-| SQL Manager | Free | https://www.sqlmanager.net/tools/free |
-| phpMyAdmin | Free | https://www.phpmyadmin.net/ |
-| SQLyog Community | Free | https://github.com/webyog/sqlyog-community/wiki/Downloads |
-| Toad for MySQL | $$$ | https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
 
 
 ---
-## 6. Prototipação, Wireframe, Mockups
+## 8. Prototipação, Wireframe, Mockups
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -126,7 +144,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 ---
-## 7. Git, e versionamento
+## 9. Git, e versionamento
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -138,16 +156,24 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
 
+
+
+
 ---
-## 8. Gestão de tickets
+## 10. Gestão de tickets
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | OsTicket | Free | https://osticket.com/ |
 | Mantis Bug Tracker | Free | https://www.mantisbt.org/ |
 
+
+
+
+
+
 ---
-## 9. Notebooks
+## 11. Notebooks
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -163,13 +189,18 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
 
 ---
-## 10. Distro Linux p/ devs
+## 12. Distro Linux p/ devs
 
 Página comentando várias linux sob o ponto de vista do desenvolvimento, https://www.vpsserver.com/best-linux-distros-for-programming/.
 
 
+
+
+
+
+
 ---
-## 11. Desenvolvimento Mobile
+## 13. Desenvolvimento Mobile
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -178,10 +209,16 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Xamarin | Free | https://visualstudio.microsoft.com/pt-br/xamarin/ |
 | B4A | $ | https://www.b4x.com/b4a.html |
 | Tizen | Free | https://www.tizen.org/ |
+| Microsoft Visual Studio Community | Free | https://visualstudio.microsoft.com/pt-br/vs/community/|
+| Delphi | Free + $$ | https://www.embarcadero.com/products/delphi/starter |
+| C++ Builder | Free + $$ | https://www.embarcadero.com/products/cbuilder/starter |
+
+
+
 
 
 ---
-## 12. Testes de API Rest
+## 14. Testes de API Rest
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -190,8 +227,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Swagger | Free | https://swagger.io/ |
 
 
+
+
+
 ---
-## 13. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
+## 15. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -202,8 +242,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Swarm | | https://ethersphere.github.io/swarm-home/# |
 | Keops | Free | https://keops.cc/ |
 
+
+
 ---
-## 14. Blockchain
+## 16. Blockchain
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -221,8 +263,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Nethereum blockchain | | https://nethereum.com/ e https://github.com/Nethereum/Nethereum.UI.Desktop |
 | Embark | | https://framework.embarklabs.io/ |
 
+
+
+
 ---
-## 15. Algoritmos
+## 17. Algoritmos
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -231,8 +276,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Flowchartocode | $ | http://www.cocodex.com/flowchart-to-code/index.html |
 | Flowgorithm | Free | http://www.flowgorithm.org/index.html | 
 
+
+
+
 ---
-## 16. DAG (directed acyclic graph), P2P (Peer-to-peer)
+## 18. DAG (directed acyclic graph), P2P (Peer-to-peer)
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -241,8 +289,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Dat | Free | https://dat-ecosystem.org/ |
 
 
+
+
 ---
-## 17. Low Code, Gerador de código, CASE
+## 19. Low Code, Gerador de código, CASE
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -250,8 +300,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Softwell Maker | $$$ | https://softwell.com.br/ |
 | Outsystems | $$$ | https://www.outsystems.com/pricing-and-editions/ |
 
+
+
 ---
-## 18. Javascript
+## 20. Javascript
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -259,26 +311,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Leafleetjs | Free | https://leafletjs.com/examples/quick-start/ |
 
 
----
-## 19. Bancos de dados
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Griddb | | https://griddb.net/en/   |
-| Convenant SQL | | https://covenantsql.io/ |
-| BlockchainSQL | | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
-| OrbitDB | | https://github.com/orbitdb |
-| YDB | | https://ydb.tech/ |
-| OurSQL | Free | https://github.com/gelembjuk/oursql |
-| QRI | | https://qri.io/ |
-| InfluxData | | https://www.influxdata.com/ |
-| Database os Database | Free | https://dbdb.io/ |
-| Db-fiddle | Free | https://www.db-fiddle.com/ |
-| db 4 free | Free | https://www.db4free.net/index.php?language=pt |
 
 
 ---
-## 20. Mapas, Geo, GIS, GPS e Georreferência
+## 21. Mapas, Geo, GIS, GPS e Georreferência
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -291,8 +328,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | TerraBrasilis | | http://terrabrasilis.dpi.inpe.br/servicos-disponiveis/ |
 | Traccar | | https://www.traccar.org/geofences/ |
 
+
+
 ---
-## 21. Visualização de dados
+## 22. Visualização de dados
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -301,8 +340,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | MS Power BI | Free + $ | https://powerbi.microsoft.com/en-au/ |
 | Looker Studio | Free + $ | https://lookerstudio.google.com/overview |
 
+
+
+
 ---
-## 22. Machine learning
+## 23. Machine learning
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -311,8 +353,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | PHP-ML | Free | https://php-ml.readthedocs.io/en/latest/ |
 
 
+
+
 ---
-## 23. Documentação
+## 24. Documentação
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -320,8 +364,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Sphinx-doc | Free | https://www.sphinx-doc.org/en/master/index.html |
 
 
+
+
+
 ---
-## 24. Gerador de dados de testes, dados artificiais
+## 25. Gerador de dados de testes, dados artificiais
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -331,4 +378,17 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Mockaroo | Free | https://www.mockaroo.com/ |
 
 Outras listas: Ferramentas para análise estática de código: https://github.com/analysis-tools-dev/static-analysis#csharp
+
+
+
+
+
+---
+## 26. Instaladores
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| Inno Setup | Free | https://jrsoftware.org/isdl.php |
+| NSIS | Free | https://nsis.sourceforge.io/Main_Page |
+| IzPack | Free | http://izpack.org/ |
 
