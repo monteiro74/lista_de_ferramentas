@@ -5,7 +5,7 @@ Lista de ferramentas para modelagem, documentação e desenvolvimento de sistema
 
 ```
 Critérios para uma ferramenta entrar nesta lista:
-1. Material de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
+1. As ferramentas aqui citas são material de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
 2. Material foi ou poderá ser usado em sala de aula
 3. Material foi usado durante a pós do PPGCA-Unisinos
 ```
@@ -332,6 +332,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Genexus    | $$$          | https://www.genexus.com/pt/  |
 | Softwell Maker | $$$ | https://softwell.com.br/ |
 | Outsystems | $$$ | https://www.outsystems.com/pricing-and-editions/ |
+| Scriptcase | $$$ | https://www.scriptcase.com.br/ |
 
 
 
