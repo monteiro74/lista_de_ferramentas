@@ -5,10 +5,12 @@ Lista de ferramentas para modelagem, documentação e desenvolvimento de sistema
 
 ```
 Critérios para uma ferramenta entrar nesta lista:
-1. As ferramentas aqui citas são material de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
+1. As ferramentas aqui citas são materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
 2. Material foi ou poderá ser usado em sala de aula
 3. Material foi usado durante a pós do PPGCA-Unisinos
+4. Recomendações de tercerios após avaliação
 ```
+
 
 [1. Modelagem UML, diagramas UML](#1-Modelagem-UML-diagramas-UML)<br>
 [2. Modelagem de banco de dados, diagrama entidade relacionamento](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
