@@ -74,7 +74,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Valentina Studio | Free + $ | https://www.valentina-db.com/en/valentina-studio-overview |
 | Beekeeper studio | $ | https://www.beekeeperstudio.io/ |
 | Draw IO | Free | https://www.drawio.com/ |
-| DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
+| DBeaver Community | Free | https://dbeaver.io/download/    |
 | BR Modelo | Free | https://www.brmodeloweb.com/lang/pt-br/index.html |
 
 
@@ -91,7 +91,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | OurSQL | Free | https://github.com/gelembjuk/oursql |
 | QRI | | https://qri.io/ |
 | InfluxData | | https://www.influxdata.com/ |
-| Database os Database | Free | https://dbdb.io/ |
+| Database of Database | Free | https://dbdb.io/ |
 | Db-fiddle | Free | https://www.db-fiddle.com/ |
 | db 4 free | Free | https://www.db4free.net/index.php?language=pt |
 
@@ -103,7 +103,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | ------------ | ------------- | --- |
 | MySQL Workbench | Free    | https://dev.mysql.com/downloads/workbench/ |
 | HeidiSQL | Free | https://www.heidisql.com/download.php |
-| DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
+| DBeaver Community | Free | https://dbeaver.io/download/    |
 | Oracle SQL Developer | Free | https://www.oracle.com/database/sqldeveloper/ |
 | MS SQL Management Studio | Free | https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 |
 | SQL Manager | Free | https://www.sqlmanager.net/tools/free |
@@ -124,7 +124,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Dev-C++ | Free | https://www.embarcadero.com/free-tools/dev-cpp |
 | IDE Komodo | Free | https://www.activestate.com/products/komodo-ide/ |
 | Oracle JDeveloper | Free + $ | https://www.oracle.com/application-development/technologies/jdeveloper.html |
-| Spyder | Free, IDE para Python | https://www.spyder-ide.org/ |
+| Spyder | Free | https://www.spyder-ide.org/ |
 | QT designer | $ | https://www.qt.io/download |
 | QT Creator | Free | https://build-system.fman.io/qt-designer-download |
 | Code Lite | Free | https://codelite.org/ |
