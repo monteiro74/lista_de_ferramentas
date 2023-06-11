@@ -395,7 +395,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Rawgraphs   | https://www.rawgraphs.io/    |
 | Grafana |  https://grafana.com/oss/graphite/ |
 | MS Power BI  | https://powerbi.microsoft.com/en-au/ |
-| Looker Studio | | https://lookerstudio.google.com/overview |
+| Looker Studio  | https://lookerstudio.google.com/overview |
 | Scimago  Graphica  | https://www.graphica.app/ |
 
 
