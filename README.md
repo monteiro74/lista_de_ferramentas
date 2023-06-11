@@ -169,7 +169,6 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | ------------ | ------------- | --- |
 | Visual Studio Code | Free | https://code.visualstudio.com/ |
 | Notepad++ | Free | https://notepad-plus-plus.org/downloads/ |
-| Atom | Morto em 2022 | https://github.blog/2022-06-08-sunsetting-atom/ |
 | Pulsar | Free | https://github.com/pulsar-edit/pulsar |
 | Light Table | Free | http://lighttable.com/ |
 | Geany | Free | https://geany.org/ |
@@ -512,6 +511,9 @@ Tersus http://www.tersus.com/ <br>
 ## 29. Projetos mortos
 
 Appcelerator https://www.axway.com/en/appcelerator-end-of-life
+
+Atom https://github.blog/2022-06-08-sunsetting-atom/ 
+
 -->
 
 
