@@ -419,7 +419,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Ferramenta      | URL |
 | ------------  | --- |
 | Doxygen |  https://www.doxygen.nl/    |
-| Sphinx-doc | | https://www.sphinx-doc.org/en/master/index.html |
+| Sphinx-doc | https://www.sphinx-doc.org/en/master/index.html |
 | DelphiCodeToDoc  | https://dephicodetodoc.sourceforge.net/ |
 | NDoc  | https://ndoc.sourceforge.net/ |
 
