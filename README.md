@@ -130,6 +130,8 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Android Studio | Free | https://developer.android.com/studio |
 | Codux | Free | https://www.codux.com/ |
 | Glade IDE | Free | https://gitlab.gnome.org/GNOME/glade |
+| Gambas IDE | Free | https://gambas.sourceforge.net/en/main.html |
+| Flagship | Free | https://www.fship.com/ |
 
 
 ### 5.1. Turbo Pascal, Delphi, Lazarus e suas variações
