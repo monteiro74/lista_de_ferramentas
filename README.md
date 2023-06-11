@@ -45,19 +45,19 @@ Critérios para uma ferramenta entrar nesta lista:
 ---
 ## 1. Modelagem UML, diagramas UML, BPMN
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Visual Paradigm Community Edition | Free | https://www.visual-paradigm.com/solution/freeumltool/ |
-| Astah para alunos | O aluno deve se candidatar a versão grátis | https://astah.net/products/free-student-license/ |
-| Astah UML | Free + $ | https://astah.net/downloads/ |
-| Modelio | Free | https://www.modelio.org/index.htm |
-| Star UML | Free | https://staruml.io/ |
-| WhiteStarUML | Free | https://sourceforge.net/projects/whitestaruml/ e https://github.com/dimon4ezzz/whitestaruml|
-| Violet UML Editor | Free | https://sourceforge.net/projects/violet/ |
-| Plant UML | Free | https://plantuml.com/ |
-| ERDPlus | | https://erdplus.com/ |
-| N Class | Free | https://nclass.sourceforge.net/ |
-| Bizagi | Free + ? | https://www.bizagi.com/en/platform/try-modeler |
+| Ferramenta   | URL |
+| ------------ | --- |
+| Visual Paradigm Community Edition |  https://www.visual-paradigm.com/solution/freeumltool/ |
+| Astah para alunos |  https://astah.net/products/free-student-license/ |
+| Astah UML | https://astah.net/downloads/ |
+| Modelio |  https://www.modelio.org/index.htm |
+| Star UML |  https://staruml.io/ |
+| WhiteStarUML  | https://sourceforge.net/projects/whitestaruml/ e https://github.com/dimon4ezzz/whitestaruml|
+| Violet UML Editor |  https://sourceforge.net/projects/violet/ |
+| Plant UML |  https://plantuml.com/ |
+| ERDPlus | https://erdplus.com/ |
+| N Class |  https://nclass.sourceforge.net/ |
+| Bizagi |  https://www.bizagi.com/en/platform/try-modeler |
 
 
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
@@ -65,97 +65,97 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 ---
 ## 2. Modelagem de banco de dados, diagrama entidade relacionamento
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| MySQL Workbench | Free | https://dev.mysql.com/downloads/workbench/    |
-| dbForge Studio for MySQL | $ | https://www.devart.com/dbforge/mysql/studio/    |     
-| ERDPluss     | Free |  https://erdplus.com/faq    |
-| DbGate       | Free           | https://dbgate.org/  |     
-| Valentina Studio | Free + $ | https://www.valentina-db.com/en/valentina-studio-overview |
-| Beekeeper studio | $ | https://www.beekeeperstudio.io/ |
-| Draw IO | Free | https://www.drawio.com/ |
-| DBeaver Community | Free | https://dbeaver.io/download/    |
-| BR Modelo | Free | https://www.brmodeloweb.com/lang/pt-br/index.html |
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| MySQL Workbench  | https://dev.mysql.com/downloads/workbench/    |
+| dbForge Studio for MySQL  | https://www.devart.com/dbforge/mysql/studio/    |     
+| ERDPluss     |   https://erdplus.com/faq    |
+| DbGate       |  https://dbgate.org/  |     
+| Valentina Studio  | https://www.valentina-db.com/en/valentina-studio-overview |
+| Beekeeper studio  | https://www.beekeeperstudio.io/ |
+| Draw IO |  https://www.drawio.com/ |
+| DBeaver Community | https://dbeaver.io/download/    |
+| BR Modelo |  https://www.brmodeloweb.com/lang/pt-br/index.html |
 
 
 ---
 ## 3. Bancos de dados
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Griddb | | https://griddb.net/en/   |
-| Convenant SQL | | https://covenantsql.io/ |
-| BlockchainSQL | | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
-| OrbitDB | | https://github.com/orbitdb |
-| YDB | | https://ydb.tech/ |
-| OurSQL | Free | https://github.com/gelembjuk/oursql |
-| QRI | | https://qri.io/ |
-| InfluxData | | https://www.influxdata.com/ |
-| Database of Database | Free | https://dbdb.io/ |
-| Db-fiddle | Free | https://www.db-fiddle.com/ |
-| db 4 free | Free | https://www.db4free.net/index.php?language=pt |
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| Griddb |  https://griddb.net/en/   |
+| Convenant SQL  | https://covenantsql.io/ |
+| BlockchainSQL  | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
+| OrbitDB | https://github.com/orbitdb |
+| YDB |  https://ydb.tech/ |
+| OurSQL  | https://github.com/gelembjuk/oursql |
+| QRI |  https://qri.io/ |
+| InfluxData  | https://www.influxdata.com/ |
+| Database of Database  | https://dbdb.io/ |
+| Db-fiddle |  https://www.db-fiddle.com/ |
+| db 4 free |  https://www.db4free.net/index.php?language=pt |
 
 
 ---
 ## 4. Administração de banco de dados
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| MySQL Workbench | Free    | https://dev.mysql.com/downloads/workbench/ |
-| HeidiSQL | Free | https://www.heidisql.com/download.php |
-| DBeaver Community | Free | https://dbeaver.io/download/    |
-| Oracle SQL Developer | Free | https://www.oracle.com/database/sqldeveloper/ |
-| MS SQL Management Studio | Free | https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 |
-| SQL Manager | Free | https://www.sqlmanager.net/tools/free |
-| phpMyAdmin | Free | https://www.phpmyadmin.net/ |
-| SQLyog Community | Free | https://github.com/webyog/sqlyog-community/wiki/Downloads |
-| Toad for MySQL | $ | https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| MySQL Workbench    | https://dev.mysql.com/downloads/workbench/ |
+| HeidiSQL |  https://www.heidisql.com/download.php |
+| DBeaver Community | https://dbeaver.io/download/    |
+| Oracle SQL Developer  | https://www.oracle.com/database/sqldeveloper/ |
+| MS SQL Management Studio  | https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 |
+| SQL Manager |  https://www.sqlmanager.net/tools/free |
+| phpMyAdmin |  https://www.phpmyadmin.net/ |
+| SQLyog Community  | https://github.com/webyog/sqlyog-community/wiki/Downloads |
+| Toad for MySQL |  https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
 
 
 ---
 ## 5. IDEs
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Codeblocks   | Free | https://www.codeblocks.org/ |
-| Microsoft Visual Studio Community | Free | https://visualstudio.microsoft.com/pt-br/vs/community/|
-| Delphi | Free + $ | https://www.embarcadero.com/products/delphi/starter |
-| C++ Builder | Free + $ | https://www.embarcadero.com/products/cbuilder/starter |
-| Dev-C++ | Free | https://www.embarcadero.com/free-tools/dev-cpp |
-| IDE Komodo | Free | https://www.activestate.com/products/komodo-ide/ |
-| Oracle JDeveloper | Free + $ | https://www.oracle.com/application-development/technologies/jdeveloper.html |
-| Spyder | Free | https://www.spyder-ide.org/ |
-| QT designer | $ | https://www.qt.io/download |
-| QT Creator | Free | https://build-system.fman.io/qt-designer-download |
-| Code Lite | Free | https://codelite.org/ |
-| Code Blocks | Free | http://www.codeblocks.org/ |
-| BlueJ | Free | https://www.bluej.org/ |
-| Dev-pascal | Free | http://bloodshed.net/Dev-Pascal |
-| U++ Framework | Free | https://www.ultimatepp.org/ |
-| Eric Python IDE | Free | http://eric-ide.python-projects.org/index.html |
-| Android Studio | Free | https://developer.android.com/studio |
-| Codux | Free | https://www.codux.com/ |
-| Glade IDE | Free | https://gitlab.gnome.org/GNOME/glade |
-| Gambas IDE | Free | https://gambas.sourceforge.net/en/main.html |
-| Flagship | Free | https://www.fship.com/ |
-| Codux | Free | https://www.codux.com/ |
-| Flutlab | Free | https://flutlab.io/ |
-| Wavemaker | $ | https://www.wavemaker.com/get-started/ |
-| Windev | $ | https://windev.com/windevmobile/WM-Express.htm |
-| Alpha | Free $ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
-| Wakanda | $ | https://wakanda.github.io/download.html |
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| Codeblocks   | https://www.codeblocks.org/ |
+| Microsoft Visual Studio Community  | https://visualstudio.microsoft.com/pt-br/vs/community/|
+| Delphi |  https://www.embarcadero.com/products/delphi/starter |
+| C++ Builder   | https://www.embarcadero.com/products/cbuilder/starter |
+| Dev-C++ | https://www.embarcadero.com/free-tools/dev-cpp |
+| IDE Komodo  | https://www.activestate.com/products/komodo-ide/ |
+| Oracle JDeveloper  | https://www.oracle.com/application-development/technologies/jdeveloper.html |
+| Spyder |  https://www.spyder-ide.org/ |
+| QT designer  | https://www.qt.io/download |
+| QT Creator  | https://build-system.fman.io/qt-designer-download |
+| Code Lite | https://codelite.org/ |
+| Code Blocks  | http://www.codeblocks.org/ |
+| BlueJ  | https://www.bluej.org/ |
+| Dev-pascal  | http://bloodshed.net/Dev-Pascal |
+| U++ Framework  | https://www.ultimatepp.org/ |
+| Eric Python IDE  | http://eric-ide.python-projects.org/index.html |
+| Android Studio  | https://developer.android.com/studio |
+| Codux |  https://www.codux.com/ |
+| Glade IDE  | https://gitlab.gnome.org/GNOME/glade |
+| Gambas IDE  | https://gambas.sourceforge.net/en/main.html |
+| Flagship  | https://www.fship.com/ |
+| Codux  | https://www.codux.com/ |
+| Flutlab  | https://flutlab.io/ |
+| Wavemaker  | https://www.wavemaker.com/get-started/ |
+| Windev  | https://windev.com/windevmobile/WM-Express.htm |
+| Alpha  | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
+| Wakanda  | https://wakanda.github.io/download.html |
 
 
 ### 5.1. Turbo Pascal, Delphi, Lazarus e suas variações
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Lazarus      | Free          | https://www.lazarus-ide.org/index.php |
-| CodeTyphon Studio | Free | https://www.pilotlogic.com/sitejoom/ |
-| Free Pascal | Free | https://www.freepascal.org/download.html |
-| LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
-| Smart Mobile Studio | $ | https://smartmobilestudio.com/ |
-| Elevate Web Builder | $ | https://www.elevatesoft.com/products?category=ewb |
+| Ferramenta   |  URL |
+| ------------ | --- |
+| Lazarus      |  https://www.lazarus-ide.org/index.php |
+| CodeTyphon Studio | https://www.pilotlogic.com/sitejoom/ |
+| Free Pascal  | https://www.freepascal.org/download.html |
+| LAMW: Lazarus Android Module Wizard  | https://github.com/jmpessoa/lazandroidmodulewizard |
+| Smart Mobile Studio  | https://smartmobilestudio.com/ |
+| Elevate Web Builder  | https://www.elevatesoft.com/products?category=ewb |
 
 
 
@@ -165,13 +165,13 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 ---
 ## 6. Editores de códigos
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Visual Studio Code | Free | https://code.visualstudio.com/ |
-| Notepad++ | Free | https://notepad-plus-plus.org/downloads/ |
-| Pulsar | Free | https://github.com/pulsar-edit/pulsar |
-| Light Table | Free | http://lighttable.com/ |
-| Geany | Free | https://geany.org/ |
+| Ferramenta    | URL |
+| ------------  | --- |
+| Visual Studio Code  | https://code.visualstudio.com/ |
+| Notepad++  | https://notepad-plus-plus.org/downloads/ |
+| Pulsar  | https://github.com/pulsar-edit/pulsar |
+| Light Table  | http://lighttable.com/ |
+| Geany  | https://geany.org/ |
 
 
 
@@ -181,15 +181,15 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 ---
 ## 7. Prototipação, Wireframe, Mockups
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Evolus Project Pencil | Free | https://pencil.evolus.vn/ |
-| Glade | Free | https://gitlab.gnome.org/GNOME/glade |
-| Balsamiq | $ | https://balsamiq.com/buy/#cloud |
-| Justinmind | Free + $ | https://www.justinmind.com/pricing |
-| Figma | Free + $ | https://www.figma.com/pricing/ |
-| FlutterFlow | Free + $ | https://flutterflow.io/ |
-| Penpot | Free + ? | https://penpot.app/ |
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| Evolus Project Pencil  | https://pencil.evolus.vn/ |
+| Glade |  https://gitlab.gnome.org/GNOME/glade |
+| Balsamiq  | https://balsamiq.com/buy/#cloud |
+| Justinmind  | https://www.justinmind.com/pricing |
+| Figma |  https://www.figma.com/pricing/ |
+| FlutterFlow  | https://flutterflow.io/ |
+| Penpot | https://penpot.app/ |
 
 
 
@@ -197,12 +197,12 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 ---
 ## 8. Git, e versionamento
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Github Desktop | Free  | https://desktop.github.com/    |
-| GitKranken | Free | https://www.gitkraken.com/ |
-| Source Tree | Free | https://www.sourcetreeapp.com/ |
-| Tortoise | Free | https://tortoisegit.org/ |
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| Github Desktop   | https://desktop.github.com/    |
+| GitKranken |  https://www.gitkraken.com/ |
+| Source Tree  | https://www.sourcetreeapp.com/ |
+| Tortoise | https://tortoisegit.org/ |
 
 Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
@@ -213,10 +213,10 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 ---
 ## 9. Gestão de tickets
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| OsTicket | Free | https://osticket.com/ |
-| Mantis Bug Tracker | Free | https://www.mantisbt.org/ |
+| Ferramenta   | URL |
+| ------------  | --- |
+| OsTicket  | https://osticket.com/ |
+| Mantis Bug Tracker | https://www.mantisbt.org/ |
 
 
 
@@ -226,17 +226,17 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 ---
 ## 10. Notebooks
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Google Colaboratory | Free | https://colab.research.google.com/ |
-| Jupiter notebooks | Free | https://jupyter.org/try |
-| Anaconda | Free | https://anaconda.org/ |
-| Terraform | Free + $ | https://app.terraform.io/public/signup/account |
-| Paperspace | Free + $ | https://www.paperspace.com/pricing |
-| Deepnote | Free + $ | https://deepnote.com/pricing |
-| Notable | Free + $ | https://noteable.io/pricing/  |
-| Kaggle | Free | https://www.kaggle.com/code |
-| Replit | Free + $ | https://replit.com/ |
+| Ferramenta   | URL |
+| ------------ | --- |
+| Google Colaboratory | https://colab.research.google.com/ |
+| Jupiter notebooks  | https://jupyter.org/try |
+| Anaconda |  https://anaconda.org/ |
+| Terraform |  https://app.terraform.io/public/signup/account |
+| Paperspace | https://www.paperspace.com/pricing |
+| Deepnote |  https://deepnote.com/pricing |
+| Notable |  https://noteable.io/pricing/  |
+| Kaggle |  https://www.kaggle.com/code |
+| Replit |  https://replit.com/ |
 
 
 ---
@@ -253,19 +253,19 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 12. Desenvolvimento Mobile
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Android Studio | Free | https://developer.android.com/studio |
-| LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
-| Xamarin | Free | https://visualstudio.microsoft.com/pt-br/xamarin/ |
-| B4A | $ | https://www.b4x.com/b4a.html |
-| Tizen | Free | https://www.tizen.org/ |
-| Microsoft Visual Studio Community | Free | https://visualstudio.microsoft.com/pt-br/vs/community/|
-| Delphi | Free + $ | https://www.embarcadero.com/products/delphi/starter |
-| C++ Builder | Free + $ | https://www.embarcadero.com/products/cbuilder/starter |
-| Modular | Free | https://www.kodular.io/ |
-| Kalipso | $ | https://www.kalipsostudio.com/ |
-| Viziapps | $ | https://viziapps.com/features-pricing |
+| Ferramenta     | URL |
+| ------------  | --- |
+| Android Studio |  https://developer.android.com/studio |
+| LAMW: Lazarus Android Module Wizard  | https://github.com/jmpessoa/lazandroidmodulewizard |
+| Xamarin |  https://visualstudio.microsoft.com/pt-br/xamarin/ |
+| B4A |  https://www.b4x.com/b4a.html |
+| Tizen |  https://www.tizen.org/ |
+| Microsoft Visual Studio Community | https://visualstudio.microsoft.com/pt-br/vs/community/|
+| Delphi |  https://www.embarcadero.com/products/delphi/starter |
+| C++ Builder  | https://www.embarcadero.com/products/cbuilder/starter |
+| Modular |  https://www.kodular.io/ |
+| Kalipso |  https://www.kalipsostudio.com/ |
+| Viziapps | https://viziapps.com/features-pricing |
 
 
 
@@ -275,48 +275,46 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 13. Testes de API Rest
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Insomnia     | Free + $     |  https://insomnia.rest/   |
-| Postman | Free + $ | https://www.postman.com/downloads/ |
-| Swagger | Free | https://swagger.io/ |
-
-
+| Ferramenta   | URL |
+| ------------ | --- |
+| Insomnia      |  https://insomnia.rest/   |
+| Postman |  https://www.postman.com/downloads/ |
+| Swagger |  https://swagger.io/ |
 
 
 
 ---
 ## 14. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| IPFS         | Free          | https://ipfs.tech/ |
-| SIA | Free | https://sia.tech/learn |
-| StorJS | Free + $ | https://www.storj.io/ |
-| OrbitDB | Free | https://github.com/orbitdb |
-| Swarm | | https://ethersphere.github.io/swarm-home/# |
-| Keops | Free | https://keops.cc/ |
+| Ferramenta   | URL |
+| ------------ | --- |
+| IPFS          | https://ipfs.tech/ |
+| SIA |  https://sia.tech/learn |
+| StorJS  | https://www.storj.io/ |
+| OrbitDB  | https://github.com/orbitdb |
+| Swarm |  https://ethersphere.github.io/swarm-home/# |
+| Keops |  https://keops.cc/ |
 
 
 
 ---
 ## 15. Blockchain
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Multichain | Free + $ | https://www.multichain.com/developers/ |
-| Openchain | Free | https://docs.openchain.org/en/latest/index.html e https://github.com/openchain/docker e https://github.com/openchain |
-| Blockchain BaaS | | https://www.kaleido.io/ |
-| Low Code Blockchain | | https://sparkster.me/# |
-| Covenant SQL | | https://covenantsql.io/ |
-| Credenciais | | https://www.blockcerts.org/ |
-| BlockchainSQL | | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
-| BSN Spartan | | https://spartan.bsn.foundation/ |
-| BSN service network | | https://bsnbase.io/g/main/index |
-| Hyperledger Fabric | Free | https://hyperledger-fabric.readthedocs.io/en/release-2.2/whatis.html |
-| Hathor | Free | https://hathor.network/ |
-| Nethereum blockchain | | https://nethereum.com/ e https://github.com/Nethereum/Nethereum.UI.Desktop |
-| Embark | | https://framework.embarklabs.io/ |
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| Multichain |  https://www.multichain.com/developers/ |
+| Openchain |  https://docs.openchain.org/en/latest/index.html e https://github.com/openchain/docker e https://github.com/openchain |
+| Blockchain BaaS  | https://www.kaleido.io/ |
+| Low Code Blockchain  | https://sparkster.me/# |
+| Covenant SQL  | https://covenantsql.io/ |
+| Credenciais  | https://www.blockcerts.org/ |
+| BlockchainSQL  | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
+| BSN Spartan  | https://spartan.bsn.foundation/ |
+| BSN service network  | https://bsnbase.io/g/main/index |
+| Hyperledger Fabric  | https://hyperledger-fabric.readthedocs.io/en/release-2.2/whatis.html |
+| Hathor  | https://hathor.network/ |
+| Nethereum blockchain  | https://nethereum.com/ e https://github.com/Nethereum/Nethereum.UI.Desktop |
+| Embark  | https://framework.embarklabs.io/ |
 
 
 
@@ -324,12 +322,12 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 16. Algoritmos
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Visual G3    | Free          | https://visualg3.com.br/    |
-| algorithm-visualizer | Free | https://algorithm-visualizer.org/ |
-| Flowchartocode | $ | http://www.cocodex.com/flowchart-to-code/index.html |
-| Flowgorithm | Free | http://www.flowgorithm.org/index.html | 
+| Ferramenta       | URL |
+| ------------  | --- |
+| Visual G3            | https://visualg3.com.br/    |
+| algorithm-visualizer  | https://algorithm-visualizer.org/ |
+| Flowchartocode | http://www.cocodex.com/flowchart-to-code/index.html |
+| Flowgorithm  | http://www.flowgorithm.org/index.html | 
 
 
 
@@ -337,11 +335,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 17. DAG (directed acyclic graph), P2P (Peer-to-peer)
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| IPFS | Free | https://docs.ipfs.tech/reference/http/api/ |
-| PeerJS | Free | https://peerjs.com/ |
-| Dat | Free | https://dat-ecosystem.org/ |
+| Ferramenta      | URL |
+| ------------  | --- |
+| IPFS  | https://docs.ipfs.tech/reference/http/api/ |
+| PeerJS  | https://peerjs.com/ |
+| Dat  | https://dat-ecosystem.org/ |
 
 
 
@@ -349,14 +347,14 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 18. Low Code, Gerador de código, CASE
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Genexus    | $          | https://www.genexus.com/pt/  |
-| Softwell Maker | $ | https://softwell.com.br/ |
-| Outsystems | $ | https://www.outsystems.com/pricing-and-editions/ |
-| Scriptcase | $ | https://www.scriptcase.com.br/ |
-| Low code |  | https://www.joget.org/ |
-| Visual Lansa | $ | https://lansa.com/products/visual-lansa/ |
+| Ferramenta      | URL |
+| ------------  | --- |
+| Genexus          | https://www.genexus.com/pt/  |
+| Softwell Maker  | https://softwell.com.br/ |
+| Outsystems  | https://www.outsystems.com/pricing-and-editions/ |
+| Scriptcase | https://www.scriptcase.com.br/ |
+| Low code  | https://www.joget.org/ |
+| Visual Lansa  | https://lansa.com/products/visual-lansa/ |
 
 
 
@@ -364,10 +362,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 19. Javascript
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| GrapeJS | Free | https://grapesjs.com/    |
-| Leafleetjs | Free | https://leafletjs.com/examples/quick-start/ |
+| Ferramenta      | URL |
+| ------------  | --- |
+| GrapeJS  | https://grapesjs.com/    |
+| Leafleetjs  | https://leafletjs.com/examples/quick-start/ |
 
 
 
@@ -376,29 +374,29 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 20. Mapas, Geo, GIS, GPS e Georreferência
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| GeoPHP | Free | https://geophp.net/ |
-| Mapbender | | https://mapbender.org/en/ |
-| GeoServer | | https://geoserver.org/ |
-| Mapserver | | https://mapserver.org/ |
-| Polymaps | | http://polymaps.org/ex/ |
-| Leafleetjs | | https://leafletjs.com/examples/quick-start/ |
-| TerraBrasilis | | http://terrabrasilis.dpi.inpe.br/servicos-disponiveis/ |
-| Traccar | | https://www.traccar.org/geofences/ |
+| Ferramenta       | URL |
+| ------------  | --- |
+| GeoPHP  | https://geophp.net/ |
+| Mapbender  | https://mapbender.org/en/ |
+| GeoServer  | https://geoserver.org/ |
+| Mapserver  | https://mapserver.org/ |
+| Polymaps  | http://polymaps.org/ex/ |
+| Leafleetjs | https://leafletjs.com/examples/quick-start/ |
+| TerraBrasilis  | http://terrabrasilis.dpi.inpe.br/servicos-disponiveis/ |
+| Traccar  | https://www.traccar.org/geofences/ |
 
 
 
 ---
 ## 21. Visualização de dados
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Rawgraphs |  | https://www.rawgraphs.io/    |
-| Grafana | | https://grafana.com/oss/graphite/ |
-| MS Power BI | Free + $ | https://powerbi.microsoft.com/en-au/ |
-| Looker Studio | Free + $ | https://lookerstudio.google.com/overview |
-| Scimago  Graphica | Free | https://www.graphica.app/ |
+| Ferramenta      | URL |
+| ------------  | --- |
+| Rawgraphs   | https://www.rawgraphs.io/    |
+| Grafana |  https://grafana.com/oss/graphite/ |
+| MS Power BI  | https://powerbi.microsoft.com/en-au/ |
+| Looker Studio | | https://lookerstudio.google.com/overview |
+| Scimago  Graphica  | https://www.graphica.app/ |
 
 
 
@@ -406,11 +404,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 22. Machine learning
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| MindsDB |  |  https://mindsdb.com/mariadb-machine-learning   |
-| Anaconda | | https://anaconda.org/anaconda/notebook |
-| PHP-ML | Free | https://php-ml.readthedocs.io/en/latest/ |
+| Ferramenta       | URL |
+| ------------  | --- |
+| MindsDB |    https://mindsdb.com/mariadb-machine-learning   |
+| Anaconda |  https://anaconda.org/anaconda/notebook |
+| PHP-ML |  https://php-ml.readthedocs.io/en/latest/ |
 
 
 
@@ -418,12 +416,12 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 23. Documentação
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Doxygen | Free | https://www.doxygen.nl/    |
-| Sphinx-doc | Free | https://www.sphinx-doc.org/en/master/index.html |
-| DelphiCodeToDoc | Free | https://dephicodetodoc.sourceforge.net/ |
-| NDoc | Free | https://ndoc.sourceforge.net/ |
+| Ferramenta      | URL |
+| ------------  | --- |
+| Doxygen |  https://www.doxygen.nl/    |
+| Sphinx-doc | | https://www.sphinx-doc.org/en/master/index.html |
+| DelphiCodeToDoc  | https://dephicodetodoc.sourceforge.net/ |
+| NDoc  | https://ndoc.sourceforge.net/ |
 
 
 
@@ -433,12 +431,12 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 ---
 ## 24. Gerador de dados de testes, dados artificiais
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Mostly | Free | https://mostly.ai/ |
-| Online Data Generator| Free | https://www.onlinedatagenerator.com/ |
-| Generate Data | Free | https://generatedata.com/ |
-| Mockaroo | Free | https://www.mockaroo.com/ |
+| Ferramenta       | URL |
+| ------------  | --- |
+| Mostly | https://mostly.ai/ |
+| Online Data Generator | https://www.onlinedatagenerator.com/ |
+| Generate Data  | https://generatedata.com/ |
+| Mockaroo | https://www.mockaroo.com/ |
 
 Outras listas: Ferramentas para análise estática de código: https://github.com/analysis-tools-dev/static-analysis#csharp
 
@@ -449,25 +447,25 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 ---
 ## 25. Instaladores
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Inno Setup | Free | https://jrsoftware.org/isdl.php |
-| NSIS | Free | https://nsis.sourceforge.io/Main_Page |
-| IzPack | Free | http://izpack.org/ |
+| Ferramenta       | URL |
+| ------------  | --- |
+| Inno Setup  | https://jrsoftware.org/isdl.php |
+| NSIS  | https://nsis.sourceforge.io/Main_Page |
+| IzPack  | http://izpack.org/ |
 
 
 
 ---
 ## 26. Gerenciamento de projeto, Gantt e Kanban
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| Project Libre | Free | https://sourceforge.net/projects/projectlibre/ |
-| GanttProject | Free | https://www.ganttproject.biz/ |
-| Kanboard | Free | https://kanboard.org/ |
-| dotProject | Free | https://dotproject.net/ |
-| Zentao | Free | https://www.zentao.pm/page/zentao-pricing.html |
-| qdPM | Free | https://qdpm.net/ |
+| Ferramenta      | URL |
+| ------------  | --- |
+| Project Libre  | https://sourceforge.net/projects/projectlibre/ |
+| GanttProject  | https://www.ganttproject.biz/ |
+| Kanboard  | https://kanboard.org/ |
+| dotProject  | https://dotproject.net/ |
+| Zentao  | https://www.zentao.pm/page/zentao-pricing.html |
+| qdPM  | https://qdpm.net/ |
 
 
 
@@ -476,21 +474,21 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 ---
 ## 27. RAD (Rapid Application Development)
 
-| Ferramenta   | Comentário    | URL |
-| ------------ | ------------- | --- |
-| AX | Free + $| http://www.ax-framework.com/download.php |
-| Rad Studio | $ | https://www.embarcadero.com/products/rad-studio |
-| Radzen | Free + $ | https://www.radzen.com/download/#windows |
-| Scriptcase | $ | https://www.scriptcase.com.br/ |
-| Clarion | $ | https://store.softvelocity.com/collections/clarion-new-licenses |
-| Codecharge | $ | http://www.codecharge.com/products/index.php |
-| 4D | $ | https://br.4d.com/ |
-| Servoy | Free + $ | https://servoy.com/pricing |
-| Caspio | Free + $ | https://www.caspio.com/features/ |
-| Kalipso | $ | https://www.kalipsostudio.com/ |
-| Alpha | Free + $ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
-| PHP RAD | Free + $ | https://phprad.com/ |
-| Adianti Builder | Free + $ | https://www.adiantibuilder.com.br/home |
+| Ferramenta       | URL |
+| ------------  | --- |
+| AX |  http://www.ax-framework.com/download.php |
+| Rad Studio  | https://www.embarcadero.com/products/rad-studio |
+| Radzen  | https://www.radzen.com/download/#windows |
+| Scriptcase  | https://www.scriptcase.com.br/ |
+| Clarion  | https://store.softvelocity.com/collections/clarion-new-licenses |
+| Codecharge  | http://www.codecharge.com/products/index.php |
+| 4D  | https://br.4d.com/ |
+| Servoy  | https://servoy.com/pricing |
+| Caspio  | https://www.caspio.com/features/ |
+| Kalipso | https://www.kalipsostudio.com/ |
+| Alpha | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
+| PHP RAD  https://phprad.com/ |
+| Adianti Builder  | https://www.adiantibuilder.com.br/home |
 
 
 
