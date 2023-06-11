@@ -12,7 +12,7 @@ Critérios para uma ferramenta entrar nesta lista:
 ```
 
 
-[1. Modelagem UML, diagramas UML](#1-Modelagem-UML-diagramas-UML)<br>
+[1. Modelagem UML, diagramas UML](#1-modelagem-uml-diagramas-uml-bpmn)<br>
 [2. Modelagem de banco de dados, diagrama entidade relacionamento](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
 [3. Bancos de dados](#3-Bancos-de-dados)<br>
 [4. Administração de banco de dados](#4-Administração-de-banco-de-dados)<br>
@@ -38,10 +38,12 @@ Critérios para uma ferramenta entrar nesta lista:
 [24. Gerador de dados de testes, dados artificiais](#24-gerador-de-dados-de-testes-dados-artificiais)<br>
 [25. Instaladores](#25-instaladores)<br>
 [26. Gerenciamento de projeto, Gantt e Kanban](#26-gerenciamento-de-projeto-gantt-e-kanban)<br>
+[27. Rad](#27-rad)<br>
+[27. Diversos](#27-rad)<br>
 
 
 ---
-## 1. Modelagem UML, diagramas UML
+## 1. Modelagem UML, diagramas UML, BPMN
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -54,6 +56,8 @@ Critérios para uma ferramenta entrar nesta lista:
 | Violet UML Editor | Free | https://sourceforge.net/projects/violet/ |
 | Plant UML | Free | https://plantuml.com/ |
 | ERDPlus | | https://erdplus.com/ |
+| N Class | Free | https://nclass.sourceforge.net/ |
+| Bizagi | Free ?? | https://www.bizagi.com/en/platform/try-modeler |
 
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
 
@@ -132,6 +136,10 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Glade IDE | Free | https://gitlab.gnome.org/GNOME/glade |
 | Gambas IDE | Free | https://gambas.sourceforge.net/en/main.html |
 | Flagship | Free | https://www.fship.com/ |
+| Codux | Free | https://www.codux.com/ |
+| Flutlab | Free | https://flutlab.io/ |
+| Wavemaker | $$$ | https://www.wavemaker.com/get-started/ |
+| Windev | $$$ | https://windev.com/windevmobile/WM-Express.htm |
 
 
 ### 5.1. Turbo Pascal, Delphi, Lazarus e suas variações
@@ -178,6 +186,8 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Justinmind | Free + $ | https://www.justinmind.com/pricing |
 | Figma | Free + $ | https://www.figma.com/pricing/ |
 | FlutterFlow | Free + $ | https://flutterflow.io/ |
+| Penpot | Free? | https://penpot.app/ |
+
 
 
 
@@ -447,6 +457,34 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | dotProject | Free | https://dotproject.net/ |
 | Zentao | Free | https://www.zentao.pm/page/zentao-pricing.html |
 | qdPM | Free | https://qdpm.net/ |
+
+
+
+
+
+---
+## 27. RAD
+
+| Ferramenta   | Comentário    | URL |
+| ------------ | ------------- | --- |
+| AX | Free + $$$| http://www.ax-framework.com/download.php |
+| Rad Studio | $$$ | https://www.embarcadero.com/products/rad-studio |
+| Radzen | Free + $$$ | https://www.radzen.com/download/#windows |
+| Scriptcase | $$$ | https://www.scriptcase.com.br/ |
+| Clarion | $$$ | https://store.softvelocity.com/collections/clarion-new-licenses |
+| Codecharge | $$$ | http://www.codecharge.com/products/index.php |
+
+
+
+---
+## 28. Diversos
+
+Compilador Xbase https://harbour.github.io/about
+
+
+
+
+
 
 
 ---
