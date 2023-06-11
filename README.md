@@ -487,7 +487,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Caspio  | https://www.caspio.com/features/ |
 | Kalipso | https://www.kalipsostudio.com/ |
 | Alpha | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
-| PHP RAD  https://phprad.com/ |
+| PHP RAD | https://phprad.com/ |
 | Adianti Builder  | https://www.adiantibuilder.com.br/home |
 
 
