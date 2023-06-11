@@ -38,7 +38,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [24. Gerador de dados de testes, dados artificiais](#24-gerador-de-dados-de-testes-dados-artificiais)<br>
 [25. Instaladores](#25-instaladores)<br>
 [26. Gerenciamento de projeto, Gantt e Kanban](#26-gerenciamento-de-projeto-gantt-e-kanban)<br>
-[27. Rad](#27-rad)<br>
+[27. RAD](#27-rad)<br>
 [27. Diversos](#27-rad)<br>
 
 
@@ -474,7 +474,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 
 
 ---
-## 27. RAD
+## 27. RAD (Rapid Application Development)
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
@@ -489,6 +489,8 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Caspio | Free + $ | https://www.caspio.com/features/ |
 | Kalipso | $ | https://www.kalipsostudio.com/ |
 | Alpha | Free + $ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
+| PHP RAD | Free + $ | https://phprad.com/ |
+| Adianti Builder | Free + $ | https://www.adiantibuilder.com.br/home |
 
 
 
