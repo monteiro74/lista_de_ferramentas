@@ -284,7 +284,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 14. Armazenamento distribuído/bancos distribuídos/File systems distribuídos
+## 14. Armazenamento distribuído, bancos distribuídos, file systems distribuídos
 
 | Ferramenta   | URL |
 | ------------ | --- |
@@ -345,7 +345,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 ---
-## 18. Low Code, Gerador de código, CASE
+## 18. Low Code, Gerador de código, CASE (Computer-aided software engineering)
 
 | Ferramenta      | URL |
 | ------------  | --- |
