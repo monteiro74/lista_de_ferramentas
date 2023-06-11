@@ -69,7 +69,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | ------------ | ------------- | --- |
 | MySQL Workbench | Problemas com MariaDB | https://dev.mysql.com/downloads/workbench/    |
 | dbForge Studio for MySQL | $ | https://www.devart.com/dbforge/mysql/studio/    |     
-| ERDPluss     | Free, funciona online |  https://erdplus.com/faq    |
+| ERDPluss     | Free |  https://erdplus.com/faq    |
 | DbGate       | Free           | https://dbgate.org/  |     
 | Valentina Studio | Free + $ | https://www.valentina-db.com/en/valentina-studio-overview |
 | Beekeeper studio | $ | https://www.beekeeperstudio.io/ |
