@@ -49,7 +49,7 @@ Critérios para uma ferramenta entrar nesta lista:
 | ------------ | ------------- | --- |
 | Visual Paradigm Community Edition | Free | https://www.visual-paradigm.com/solution/freeumltool/ |
 | Astah para alunos | O aluno deve se candidatar a versão grátis | https://astah.net/products/free-student-license/ |
-| Astah UML | Tem uma versão Demo para download | https://astah.net/downloads/ |
+| Astah UML | Free + $ | https://astah.net/downloads/ |
 | Modelio | Free | https://www.modelio.org/index.htm |
 | Star UML | Free | https://staruml.io/ |
 | WhiteStarUML | Free | https://sourceforge.net/projects/whitestaruml/ e https://github.com/dimon4ezzz/whitestaruml|
@@ -67,7 +67,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-| MySQL Workbench | Problemas com MariaDB | https://dev.mysql.com/downloads/workbench/    |
+| MySQL Workbench | Free | https://dev.mysql.com/downloads/workbench/    |
 | dbForge Studio for MySQL | $ | https://www.devart.com/dbforge/mysql/studio/    |     
 | ERDPluss     | Free |  https://erdplus.com/faq    |
 | DbGate       | Free           | https://dbgate.org/  |     
