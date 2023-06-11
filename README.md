@@ -67,11 +67,11 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | MySQL Workbench | Problemas com MariaDB | https://dev.mysql.com/downloads/workbench/    |
-| dbForge Studio for MySQL | $$$ | https://www.devart.com/dbforge/mysql/studio/    |     
+| dbForge Studio for MySQL | $ | https://www.devart.com/dbforge/mysql/studio/    |     
 | ERDPluss     | Free, funciona online |  https://erdplus.com/faq    |
 | DbGate       | Free           | https://dbgate.org/  |     
-| Valentina Studio | Free + $$ | https://www.valentina-db.com/en/valentina-studio-overview |
-| Beekeeper studio | $$$ | https://www.beekeeperstudio.io/ |
+| Valentina Studio | Free + $ | https://www.valentina-db.com/en/valentina-studio-overview |
+| Beekeeper studio | $ | https://www.beekeeperstudio.io/ |
 | Draw IO | Free | https://www.drawio.com/ |
 | BR Modelo | Free | https://www.brmodeloweb.com/lang/pt-br/index.html |
 
@@ -107,7 +107,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | SQL Manager | Free | https://www.sqlmanager.net/tools/free |
 | phpMyAdmin | Free | https://www.phpmyadmin.net/ |
 | SQLyog Community | Free | https://github.com/webyog/sqlyog-community/wiki/Downloads |
-| Toad for MySQL | $$$ | https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
+| Toad for MySQL | $ | https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
 
 
 ---
@@ -117,13 +117,13 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | ------------ | ------------- | --- |
 | Codeblocks   | Free | https://www.codeblocks.org/ |
 | Microsoft Visual Studio Community | Free | https://visualstudio.microsoft.com/pt-br/vs/community/|
-| Delphi | Free + $$ | https://www.embarcadero.com/products/delphi/starter |
-| C++ Builder | Free + $$ | https://www.embarcadero.com/products/cbuilder/starter |
+| Delphi | Free + $ | https://www.embarcadero.com/products/delphi/starter |
+| C++ Builder | Free + $ | https://www.embarcadero.com/products/cbuilder/starter |
 | Dev-C++ | Free | https://www.embarcadero.com/free-tools/dev-cpp |
 | IDE Komodo | Free | https://www.activestate.com/products/komodo-ide/ |
-| Oracle JDeveloper | Free + $$ | https://www.oracle.com/application-development/technologies/jdeveloper.html |
+| Oracle JDeveloper | Free + $ | https://www.oracle.com/application-development/technologies/jdeveloper.html |
 | Spyder | Free, IDE para Python | https://www.spyder-ide.org/ |
-| QT designer | $$ | https://www.qt.io/download |
+| QT designer | $ | https://www.qt.io/download |
 | QT Creator | Free | https://build-system.fman.io/qt-designer-download |
 | Code Lite | Free | https://codelite.org/ |
 | Code Blocks | Free | http://www.codeblocks.org/ |
@@ -138,10 +138,10 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Flagship | Free | https://www.fship.com/ |
 | Codux | Free | https://www.codux.com/ |
 | Flutlab | Free | https://flutlab.io/ |
-| Wavemaker | $$$ | https://www.wavemaker.com/get-started/ |
-| Windev | $$$ | https://windev.com/windevmobile/WM-Express.htm |
-| Alpha | Free $$$ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
-| Wakanda | $$$ | https://wakanda.github.io/download.html |
+| Wavemaker | $ | https://www.wavemaker.com/get-started/ |
+| Windev | $ | https://windev.com/windevmobile/WM-Express.htm |
+| Alpha | Free $ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
+| Wakanda | $ | https://wakanda.github.io/download.html |
 
 
 ### 5.1. Turbo Pascal, Delphi, Lazarus e suas variações
@@ -152,8 +152,8 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | CodeTyphon Studio | Free | https://www.pilotlogic.com/sitejoom/ |
 | Free Pascal | Free | https://www.freepascal.org/download.html |
 | LAMW: Lazarus Android Module Wizard | Free | https://github.com/jmpessoa/lazandroidmodulewizard |
-| Smart Mobile Studio | $$ | https://smartmobilestudio.com/ |
-| Elevate Web Builder | $$ | https://www.elevatesoft.com/products?category=ewb |
+| Smart Mobile Studio | $ | https://smartmobilestudio.com/ |
+| Elevate Web Builder | $ | https://www.elevatesoft.com/products?category=ewb |
 
 
 
@@ -230,12 +230,12 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 | Google Colaboratory | Free | https://colab.research.google.com/ |
 | Jupiter notebooks | Free | https://jupyter.org/try |
 | Anaconda | Free | https://anaconda.org/ |
-| Terraform | Free + $$ | https://app.terraform.io/public/signup/account |
-| Paperspace | Free + $$ | https://www.paperspace.com/pricing |
-| Deepnote | Free + $$ | https://deepnote.com/pricing |
-| Notable | Free + $$ | https://noteable.io/pricing/  |
+| Terraform | Free + $ | https://app.terraform.io/public/signup/account |
+| Paperspace | Free + $ | https://www.paperspace.com/pricing |
+| Deepnote | Free + $ | https://deepnote.com/pricing |
+| Notable | Free + $ | https://noteable.io/pricing/  |
 | Kaggle | Free | https://www.kaggle.com/code |
-| Replit | Free + $$ | https://replit.com/ |
+| Replit | Free + $ | https://replit.com/ |
 
 
 ---
@@ -260,11 +260,11 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | B4A | $ | https://www.b4x.com/b4a.html |
 | Tizen | Free | https://www.tizen.org/ |
 | Microsoft Visual Studio Community | Free | https://visualstudio.microsoft.com/pt-br/vs/community/|
-| Delphi | Free + $$ | https://www.embarcadero.com/products/delphi/starter |
-| C++ Builder | Free + $$ | https://www.embarcadero.com/products/cbuilder/starter |
+| Delphi | Free + $ | https://www.embarcadero.com/products/delphi/starter |
+| C++ Builder | Free + $ | https://www.embarcadero.com/products/cbuilder/starter |
 | Modular | Free | https://www.kodular.io/ |
-| Kalipso | $$$ | https://www.kalipsostudio.com/ |
-| Viziapps | $$$ | https://viziapps.com/features-pricing |
+| Kalipso | $ | https://www.kalipsostudio.com/ |
+| Viziapps | $ | https://viziapps.com/features-pricing |
 
 
 
@@ -276,8 +276,8 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-| Insomnia     | Free + $$     |  https://insomnia.rest/   |
-| Postman | Free + $$ | https://www.postman.com/downloads/ |
+| Insomnia     | Free + $     |  https://insomnia.rest/   |
+| Postman | Free + $ | https://www.postman.com/downloads/ |
 | Swagger | Free | https://swagger.io/ |
 
 
@@ -350,12 +350,12 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-| Genexus    | $$$          | https://www.genexus.com/pt/  |
-| Softwell Maker | $$$ | https://softwell.com.br/ |
-| Outsystems | $$$ | https://www.outsystems.com/pricing-and-editions/ |
-| Scriptcase | $$$ | https://www.scriptcase.com.br/ |
+| Genexus    | $          | https://www.genexus.com/pt/  |
+| Softwell Maker | $ | https://softwell.com.br/ |
+| Outsystems | $ | https://www.outsystems.com/pricing-and-editions/ |
+| Scriptcase | $ | https://www.scriptcase.com.br/ |
 | Low code |  | https://www.joget.org/ |
-| Visual Lansa | $$$ | https://lansa.com/products/visual-lansa/ |
+| Visual Lansa | $ | https://lansa.com/products/visual-lansa/ |
 
 
 
@@ -477,17 +477,17 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
-| AX | Free + $$$| http://www.ax-framework.com/download.php |
-| Rad Studio | $$$ | https://www.embarcadero.com/products/rad-studio |
-| Radzen | Free + $$$ | https://www.radzen.com/download/#windows |
-| Scriptcase | $$$ | https://www.scriptcase.com.br/ |
-| Clarion | $$$ | https://store.softvelocity.com/collections/clarion-new-licenses |
-| Codecharge | $$$ | http://www.codecharge.com/products/index.php |
-| 4D | $$$ | https://br.4d.com/ |
-| Servoy | Free + $$$ | https://servoy.com/pricing |
-| Caspio | Free + $$$ | https://www.caspio.com/features/ |
-| Kalipso | $$$ | https://www.kalipsostudio.com/ |
-| Alpha | Free + $$$ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
+| AX | Free + $| http://www.ax-framework.com/download.php |
+| Rad Studio | $ | https://www.embarcadero.com/products/rad-studio |
+| Radzen | Free + $ | https://www.radzen.com/download/#windows |
+| Scriptcase | $ | https://www.scriptcase.com.br/ |
+| Clarion | $ | https://store.softvelocity.com/collections/clarion-new-licenses |
+| Codecharge | $ | http://www.codecharge.com/products/index.php |
+| 4D | $ | https://br.4d.com/ |
+| Servoy | Free + $ | https://servoy.com/pricing |
+| Caspio | Free + $ | https://www.caspio.com/features/ |
+| Kalipso | $ | https://www.kalipsostudio.com/ |
+| Alpha | Free + $ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
 
 
 
