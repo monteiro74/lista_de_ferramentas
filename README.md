@@ -59,6 +59,7 @@ Critérios para uma ferramenta entrar nesta lista:
 | N Class | Free | https://nclass.sourceforge.net/ |
 | Bizagi | Free ?? | https://www.bizagi.com/en/platform/try-modeler |
 
+
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
 
 ---
@@ -73,6 +74,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Valentina Studio | Free + $ | https://www.valentina-db.com/en/valentina-studio-overview |
 | Beekeeper studio | $ | https://www.beekeeperstudio.io/ |
 | Draw IO | Free | https://www.drawio.com/ |
+| DBeaver Community | Conecta com vários bancos | https://dbeaver.io/download/    |
 | BR Modelo | Free | https://www.brmodeloweb.com/lang/pt-br/index.html |
 
 
