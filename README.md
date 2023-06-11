@@ -401,6 +401,9 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | ------------ | ------------- | --- |
 | Doxygen | Free | https://www.doxygen.nl/    |
 | Sphinx-doc | Free | https://www.sphinx-doc.org/en/master/index.html |
+| DelphiCodeToDoc | Free | https://dephicodetodoc.sourceforge.net/ |
+| NDoc | Free | https://ndoc.sourceforge.net/ |
+
 
 
 
