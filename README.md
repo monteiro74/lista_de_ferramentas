@@ -25,11 +25,11 @@ Critérios para uma ferramenta entrar nesta lista:
 [11. Distro Linux p/ devs](#11-distro-linux-p-devs)<br>
 [12. Desenvolvimento Mobile](#12-desenvolvimento-mobile)<br>
 [13. Testes de API Rest](#13-testes-de-api-rest)<br>
-[14. Armazenamento distribuído/bancos distribuídos/File systems distribuídos](#14-armazenamento-distribuídobancos-distribuídosfile-systems-distribuídos)<br>
+[14. Armazenamento distribuído/bancos distribuídos/File systems distribuídos](#14-armazenamento-distribuído-bancos-distribuídos-file-systems-distribuídos)<br>
 [15. Blockchain](#15-blockchain)<br>
 [16. Algoritmos](#16-algoritmos)<br>
 [17. DAG (directed acyclic graph), P2P (Peer-to-peer)](#17-dag-directed-acyclic-graph-p2p-peer-to-peer)<br>
-[18. Low Code, Gerador de código, CASE](#18-low-code-gerador-de-código-case)<br>
+[18. Low Code, Gerador de código, CASE](#18-low-code-gerador-de-código-case-computer-aided-software-engineering)<br>
 [19. Javascript](#19-javascript)<br>
 [20. Mapas, Geo, GIS, GPS e Georreferência](#20-mapas-geo-gis-gps-e-georreferência)<br>
 [21. Visualização de dados](#21-visualização-de-dados)<br>
