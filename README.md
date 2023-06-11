@@ -140,6 +140,8 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Flutlab | Free | https://flutlab.io/ |
 | Wavemaker | $$$ | https://www.wavemaker.com/get-started/ |
 | Windev | $$$ | https://windev.com/windevmobile/WM-Express.htm |
+| Alpha | Free $$$ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
+| Wakanda | $$$ | https://wakanda.github.io/download.html |
 
 
 ### 5.1. Turbo Pascal, Delphi, Lazarus e suas variações
@@ -260,6 +262,10 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Microsoft Visual Studio Community | Free | https://visualstudio.microsoft.com/pt-br/vs/community/|
 | Delphi | Free + $$ | https://www.embarcadero.com/products/delphi/starter |
 | C++ Builder | Free + $$ | https://www.embarcadero.com/products/cbuilder/starter |
+| Modular | Free | https://www.kodular.io/ |
+| Kalipso | $$$ | https://www.kalipsostudio.com/ |
+| Viziapps | $$$ | https://viziapps.com/features-pricing |
+
 
 
 
@@ -348,6 +354,9 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Softwell Maker | $$$ | https://softwell.com.br/ |
 | Outsystems | $$$ | https://www.outsystems.com/pricing-and-editions/ |
 | Scriptcase | $$$ | https://www.scriptcase.com.br/ |
+| Low code |  | https://www.joget.org/ |
+| Visual Lansa | $$$ | https://lansa.com/products/visual-lansa/ |
+
 
 
 
@@ -473,15 +482,31 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Scriptcase | $$$ | https://www.scriptcase.com.br/ |
 | Clarion | $$$ | https://store.softvelocity.com/collections/clarion-new-licenses |
 | Codecharge | $$$ | http://www.codecharge.com/products/index.php |
+| 4D | $$$ | https://br.4d.com/ |
+| Servoy | Free + $$$ | https://servoy.com/pricing |
+| Caspio | Free + $$$ | https://www.caspio.com/features/ |
+| Kalipso | $$$ | https://www.kalipsostudio.com/ |
+| Alpha | Free + $$$ | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
+
+
+
 
 
 
 ---
 ## 28. Diversos
 
-Compilador Xbase https://harbour.github.io/about
+Compilador Xbase https://harbour.github.io/about <br>
+XSharp https://www.xsharp.eu/ <br>
+Xailer https://www.xailer.com/wp/en/start/ <br>
+TCL TK https://www.tcl.tk/ <br> 
+Tersus http://www.tersus.com/ <br> 
 
 
+---
+## 29. Projetos mortos
+
+Appcelerator https://www.axway.com/en/appcelerator-end-of-life
 
 
 
