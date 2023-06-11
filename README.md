@@ -8,7 +8,7 @@ Critérios para uma ferramenta entrar nesta lista:
 1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
 2. Material foi ou poderá ser usado em sala de aula
 3. Material foi usado durante a pós do PPGCA-Unisinos
-4. Recomendações de tercerios após avaliação
+4. Recomendações de tercerios (professores, técnicos e alunos) após avaliação
 ```
 
 
@@ -397,6 +397,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Grafana | | https://grafana.com/oss/graphite/ |
 | MS Power BI | Free + $ | https://powerbi.microsoft.com/en-au/ |
 | Looker Studio | Free + $ | https://lookerstudio.google.com/overview |
+| Scimago  Graphica | Free | https://www.graphica.app/ |
 
 
 
@@ -503,11 +504,13 @@ TCL TK https://www.tcl.tk/ <br>
 Tersus http://www.tersus.com/ <br> 
 
 
+
+<!--
 ---
 ## 29. Projetos mortos
 
 Appcelerator https://www.axway.com/en/appcelerator-end-of-life
-
+-->
 
 
 
