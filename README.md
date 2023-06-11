@@ -503,7 +503,8 @@ XSharp https://www.xsharp.eu/ <br>
 Xailer https://www.xailer.com/wp/en/start/ <br>
 TCL TK https://www.tcl.tk/ <br> 
 Tersus http://www.tersus.com/ <br> 
-
+Ranking de bancos de dados https://db-engines.com/en/ranking <br>
+Ranking de linguagens de programação https://www.tiobe.com/tiobe-index/ <br>
 
 
 <!--
