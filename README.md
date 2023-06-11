@@ -200,7 +200,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Ferramenta   | Comentário    | URL |
 | ------------ | ------------- | --- |
 | Github Desktop | Free  | https://desktop.github.com/    |
-| GitKranken ! Free ! https://www.gitkraken.com/ |
+| GitKranken | Free | https://www.gitkraken.com/ |
 | Source Tree | Free | https://www.sourcetreeapp.com/ |
 | Tortoise | Free | https://tortoisegit.org/ |
 
