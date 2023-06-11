@@ -57,7 +57,7 @@ Critérios para uma ferramenta entrar nesta lista:
 | Plant UML | Free | https://plantuml.com/ |
 | ERDPlus | | https://erdplus.com/ |
 | N Class | Free | https://nclass.sourceforge.net/ |
-| Bizagi | Free ?? | https://www.bizagi.com/en/platform/try-modeler |
+| Bizagi | Free + ? | https://www.bizagi.com/en/platform/try-modeler |
 
 
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
@@ -189,7 +189,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Justinmind | Free + $ | https://www.justinmind.com/pricing |
 | Figma | Free + $ | https://www.figma.com/pricing/ |
 | FlutterFlow | Free + $ | https://flutterflow.io/ |
-| Penpot | Free? | https://penpot.app/ |
+| Penpot | Free + ? | https://penpot.app/ |
 
 
 
