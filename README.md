@@ -17,7 +17,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [2. Modelagem de banco de dados, DER (diagrama entidade relacionamento)](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
 [3. Bancos de dados](#3-Bancos-de-dados)<br>
 [4. Administração de banco de dados](#4-Administração-de-banco-de-dados)<br>
-[5. IDEs](#5-IDEs)<br>
+[5. IDE (Integrated Development Environment)](#5-IDEs)<br>
 [6. Editores de códigos](#6-Editores-de-códigos)<br>
 [7. Prototipação, wireframe, mockups](#7-prototipação-wireframe-mockups)<br>
 [8. Git, e versionamento](#8-git-e-versionamento)<br>
