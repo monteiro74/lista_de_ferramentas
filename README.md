@@ -5,10 +5,11 @@ Lista de ferramentas para modelagem, documentação e desenvolvimento de sistema
 
 ```
 Critérios para uma ferramenta entrar nesta lista:
-1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados
-2. Material foi ou poderá ser usado em sala de aula
-3. Material foi usado durante a pós do PPGCA-Unisinos
-4. Recomendações de tercerios (professores, técnicos e alunos) após avaliação
+1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados.
+2. Material foi ou poderá ser usado em sala de aula.
+3. Material foi usado durante a pós do PPGCA-Unisinos.
+4. Recomendações de tercerios (professores, técnicos e alunos) após avaliação.
+5. A lista possui ferramentas open source e proprietárias.
 ```
 
 
