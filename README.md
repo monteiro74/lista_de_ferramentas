@@ -13,25 +13,25 @@ Critérios para uma ferramenta entrar nesta lista:
 
 
 [1. Modelagem UML, diagramas UML](#1-modelagem-uml-diagramas-uml-bpmn)<br>
-[2. Modelagem de banco de dados, diagrama entidade relacionamento](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
+[2. Modelagem de banco de dados, DER (diagrama entidade relacionamento)](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
 [3. Bancos de dados](#3-Bancos-de-dados)<br>
 [4. Administração de banco de dados](#4-Administração-de-banco-de-dados)<br>
 [5. IDEs](#5-IDEs)<br>
 [6. Editores de códigos](#6-Editores-de-códigos)<br>
-[7. Prototipação, Wireframe, Mockups](#7-prototipação-wireframe-mockups)<br>
+[7. Prototipação, wireframe, mockups](#7-prototipação-wireframe-mockups)<br>
 [8. Git, e versionamento](#8-git-e-versionamento)<br>
 [9. Gestão de tickets](#9-gestão-de-tickets)<br>
 [10. Notebooks](#10-notebooks)<br>
 [11. Distro Linux p/ devs](#11-distro-linux-p-devs)<br>
-[12. Desenvolvimento Mobile](#12-desenvolvimento-mobile)<br>
+[12. Desenvolvimento mobile](#12-desenvolvimento-mobile)<br>
 [13. Testes de API Rest](#13-testes-de-api-rest)<br>
 [14. Armazenamento distribuído, bancos distribuídos, sistemas de arquivos distribuídos](#14-armazenamento-distribuído-bancos-distribuídos-file-systems-distribuídos)<br>
 [15. Blockchain](#15-blockchain)<br>
 [16. Algoritmos](#16-algoritmos)<br>
 [17. DAG (Directed Acyclic Graph), P2P (Peer-to-Peer)](#17-dag-directed-acyclic-graph-p2p-peer-to-peer)<br>
-[18. Low Code, gerador de código, CASE](#18-low-code-gerador-de-código-case-computer-aided-software-engineering)<br>
+[18. Low code, gerador de código, CASE](#18-low-code-gerador-de-código-case-computer-aided-software-engineering)<br>
 [19. Javascript](#19-javascript)<br>
-[20. Mapas, Geo, GIS, GPS e Georreferência](#20-mapas-geo-gis-gps-e-georreferência)<br>
+[20. Mapas, geo, GIS, GPS e Georreferência](#20-mapas-geo-gis-gps-e-georreferência)<br>
 [21. Visualização de dados](#21-visualização-de-dados)<br>
 [22. Machine learning](#22-machine-learning)<br>
 [23. Documentação](#23-documentação)<br>
