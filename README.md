@@ -489,6 +489,9 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Alpha | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
 | PHP RAD | https://phprad.com/ |
 | Adianti Builder  | https://www.adiantibuilder.com.br/home |
+| Glade | https://gitlab.gnome.org/GNOME/glade |
+| Open Xava | https://www.openxava.org/en/ate/rad-java |
+| Cuba Studio | https://www.jmix.io/cuba-platform/tools/ |
 
 
 
