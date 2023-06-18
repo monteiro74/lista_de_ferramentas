@@ -263,14 +263,12 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 | Replit |  https://replit.com/ |
 
 
+
+
 ---
 ## 11. Distro Linux p/ devs
 
 Página comentando várias linux sob o ponto de vista do desenvolvimento, https://www.vpsserver.com/best-linux-distros-for-programming/.
-
-
-
-
 
 
 
