@@ -97,7 +97,25 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 
 
 ```
-Alguns bancos de dados comentados na PPGCA
+Observação: Alguns bancos de dados (citados acima) comentados no PPGCA e/ou usados no projeto MRPA.
+```
+
+
+### 3.1 Bancos de dados "empacotados" com Apache e PHP
+
+Recomendados para uso em sala de aula (MySQL ou MariaDB), estes podem ser instalados no Windows ou Linux via pacotes como XAMPP, WAMP ou Laragon
+
+| Ferramenta   |  URL |
+| ------------ |  --- |
+| MariaDB | https://mariadb.org/download/?t=mariadb&o=true&p=mariadb&r=10.5.13&os=windows&cpu=x86_64&pkg=msi   |
+| MySQL | https://dev.mysql.com/downloads/mysql/ |
+| XAMPP  | https://www.apachefriends.org/ |
+| WAMP | https://www.wampserver.com/en/download-wampserver-64bits/ |
+| Laragon | https://laragon.org/download/index.html |
+
+
+```
+Observação: Laragon é um dos mais simples para usar!
 ```
 
 
