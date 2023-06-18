@@ -492,6 +492,14 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Glade | https://gitlab.gnome.org/GNOME/glade |
 | Open Xava | https://www.openxava.org/en/ate/rad-java |
 | Cuba Studio | https://www.jmix.io/cuba-platform/tools/ |
+| Visual Studio | https://visualstudio.microsoft.com/pt-br/ |
+| Mono Develop | https://www.monodevelop.com/ |
+| Pure Basic | https://www.purebasic.com/ |
+| Qt Creator | https://www.qt.io/product/development-tools |
+| U++ Framework | https://www.ultimatepp.org/ |
+| Anvil | https://anvil.works/ |
+| Lazarus | https://www.lazarus-ide.org/ |
+| Xcode | https://developer.apple.com/xcode/ |
 
 
 
@@ -508,6 +516,7 @@ TCL TK https://www.tcl.tk/ <br>
 Tersus http://www.tersus.com/ <br> 
 Ranking de bancos de dados https://db-engines.com/en/ranking <br>
 Ranking de linguagens de programação https://www.tiobe.com/tiobe-index/ <br>
+Eiffel https://www.eiffel.org/doc/eiffelstudio <br> 
 
 
 <!--
