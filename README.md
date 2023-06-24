@@ -13,7 +13,7 @@ Critérios para uma ferramenta entrar nesta lista:
 ```
 
 
-[1. Modelagem UML, diagramas UML](#1-modelagem-uml-diagramas-uml-bpmn)<br>
+[1. Modelagem UML (Unified Modeling Language), diagramas UML](#1-modelagem-uml-diagramas-uml-bpmn)<br>
 [2. Modelagem de banco de dados, DER (Diagrama Entidade Relacionamento)](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
 [3. Bancos de dados](#3-Bancos-de-dados)<br>
 [4. Administração de banco de dados](#4-Administração-de-banco-de-dados)<br>
@@ -25,7 +25,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [10. Notebooks](#10-notebooks)<br>
 [11. Distro Linux p/ devs](#11-distro-linux-p-devs)<br>
 [12. Desenvolvimento mobile](#12-desenvolvimento-mobile)<br>
-[13. Testes de API Rest](#13-testes-de-api-rest)<br>
+[13. Testes de API (Application Programming Interface) REST (Representational State Transfer)](#13-testes-de-api-rest)<br>
 [14. Armazenamento distribuído, bancos distribuídos, sistemas de arquivos distribuídos](#14-armazenamento-distribuído-bancos-distribuídos-file-systems-distribuídos)<br>
 [15. Blockchain](#15-blockchain)<br>
 [16. Algoritmos](#16-algoritmos)<br>
