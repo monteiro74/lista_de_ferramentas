@@ -143,9 +143,9 @@ Observação: Laragon é um dos mais simples para usar!
 | ------------ |  --- |
 | Codeblocks   | https://www.codeblocks.org/ |
 | Microsoft Visual Studio Community  | https://visualstudio.microsoft.com/pt-br/vs/community/|
-| Delphi |  https://www.embarcadero.com/products/delphi/starter |
-| C++ Builder   | https://www.embarcadero.com/products/cbuilder/starter |
-| Dev-C++ | https://www.embarcadero.com/free-tools/dev-cpp |
+| Embarcadero Delphi |  https://www.embarcadero.com/products/delphi/starter |
+| Embarcadero C++ Builder   | https://www.embarcadero.com/products/cbuilder/starter |
+| Embarcadero Dev-C++ | https://www.embarcadero.com/free-tools/dev-cpp |
 | IDE Komodo  | https://www.activestate.com/products/komodo-ide/ |
 | Oracle JDeveloper  | https://www.oracle.com/application-development/technologies/jdeveloper.html |
 | Spyder |  https://www.spyder-ide.org/ |
@@ -184,6 +184,9 @@ Observação: Laragon é um dos mais simples para usar!
 
 
 Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
+
+
+
 
 
 ---
@@ -319,6 +322,8 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 
 
+
+
 ---
 ## 15. Blockchain
 
@@ -383,6 +388,8 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 
 ---
 ## 19. Javascript
+
+Algumas bibliotecas/frameworks interessantes...
 
 | Ferramenta      | URL |
 | ------------  | --- |
