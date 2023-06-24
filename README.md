@@ -14,7 +14,7 @@ Critérios para uma ferramenta entrar nesta lista:
 
 
 [1. Modelagem UML, diagramas UML](#1-modelagem-uml-diagramas-uml-bpmn)<br>
-[2. Modelagem de banco de dados, DER (diagrama entidade relacionamento)](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
+[2. Modelagem de banco de dados, DER (Diagrama Entidade Relacionamento)](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
 [3. Bancos de dados](#3-Bancos-de-dados)<br>
 [4. Administração de banco de dados](#4-Administração-de-banco-de-dados)<br>
 [5. IDE (Integrated Development Environment)](#5-IDEs)<br>
@@ -30,9 +30,9 @@ Critérios para uma ferramenta entrar nesta lista:
 [15. Blockchain](#15-blockchain)<br>
 [16. Algoritmos](#16-algoritmos)<br>
 [17. DAG (Directed Acyclic Graph), P2P (Peer-to-Peer)](#17-dag-directed-acyclic-graph-p2p-peer-to-peer)<br>
-[18. Low code, gerador de código, CASE](#18-low-code-gerador-de-código-case-computer-aided-software-engineering)<br>
+[18. Low code, gerador de código, CASE (Computer-Aided Software Engineering)](#18-low-code-gerador-de-código-case-computer-aided-software-engineering)<br>
 [19. Javascript](#19-javascript)<br>
-[20. Mapas, geo, GIS, GPS e Georreferência](#20-mapas-geo-gis-gps-e-georreferência)<br>
+[20. Mapas, GIS (Geographic Information System), GPS (Global Positioning System) e Georreferência](#20-mapas-geo-gis-gps-e-georreferência)<br>
 [21. Visualização de dados](#21-visualização-de-dados)<br>
 [22. Machine learning](#22-machine-learning)<br>
 [23. Documentação](#23-documentação)<br>
