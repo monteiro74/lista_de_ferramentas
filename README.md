@@ -444,6 +444,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Sphinx-doc | https://www.sphinx-doc.org/en/master/index.html |
 | DelphiCodeToDoc  | https://dephicodetodoc.sourceforge.net/ |
 | NDoc  | https://ndoc.sourceforge.net/ |
+| Confluence | https://www.atlassian.com/software/confluence |
 
 
 
