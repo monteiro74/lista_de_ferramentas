@@ -330,17 +330,17 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Ferramenta   |  URL |
 | ------------ |  --- |
 | Multichain |  https://www.multichain.com/developers/ |
-| Openchain |  https://docs.openchain.org/en/latest/index.html e https://github.com/openchain/docker e https://github.com/openchain |
+| Openchain |  https://docs.openchain.org/en/latest/index.html <br> https://github.com/openchain/docker <br> https://github.com/openchain |
 | Blockchain BaaS  | https://www.kaleido.io/ |
 | Low Code Blockchain  | https://sparkster.me/# |
 | Covenant SQL  | https://covenantsql.io/ |
 | Credenciais  | https://www.blockcerts.org/ |
-| BlockchainSQL  | https://blockchainsql.io/ e https://sphere10.com/products/blockchainsql |
+| BlockchainSQL  | https://blockchainsql.io/ <br> https://sphere10.com/products/blockchainsql |
 | BSN Spartan  | https://spartan.bsn.foundation/ |
 | BSN service network  | https://bsnbase.io/g/main/index |
 | Hyperledger Fabric  | https://hyperledger-fabric.readthedocs.io/en/release-2.2/whatis.html |
 | Hathor  | https://hathor.network/ |
-| Nethereum blockchain  | https://nethereum.com/ e https://github.com/Nethereum/Nethereum.UI.Desktop |
+| Nethereum blockchain  | https://nethereum.com/ <br> https://github.com/Nethereum/Nethereum.UI.Desktop |
 | Embark  | https://framework.embarklabs.io/ |
 
 
