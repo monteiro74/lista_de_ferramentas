@@ -222,7 +222,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 
 ---
-## 8. Git, e versionamento
+## 8. Git e versionamento
 
 | Ferramenta   |  URL |
 | ------------ |  --- |
@@ -281,7 +281,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Ferramenta     | URL |
 | ------------  | --- |
 | Android Studio |  https://developer.android.com/studio |
-| LAMW: Lazarus Android Module Wizard  | https://github.com/jmpessoa/lazandroidmodulewizard |
+| LAMW (Lazarus Android Module Wizard)  | https://github.com/jmpessoa/lazandroidmodulewizard |
 | Xamarin |  https://visualstudio.microsoft.com/pt-br/xamarin/ |
 | B4A |  https://www.b4x.com/b4a.html |
 | Tizen |  https://www.tizen.org/ |
@@ -507,7 +507,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Ferramenta       | URL |
 | ------------  | --- |
 | AX |  http://www.ax-framework.com/download.php |
-| Rad Studio  | https://www.embarcadero.com/products/rad-studio |
+| Embarcadero Rad Studio  | https://www.embarcadero.com/products/rad-studio |
 | Radzen  | https://www.radzen.com/download/#windows |
 | Scriptcase  | https://www.scriptcase.com.br/ |
 | Clarion  | https://store.softvelocity.com/collections/clarion-new-licenses |
@@ -522,7 +522,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Glade | https://gitlab.gnome.org/GNOME/glade |
 | Open Xava | https://www.openxava.org/en/ate/rad-java |
 | Cuba Studio | https://www.jmix.io/cuba-platform/tools/ |
-| Visual Studio | https://visualstudio.microsoft.com/pt-br/ |
+| Microsoft Visual Studio | https://visualstudio.microsoft.com/pt-br/ |
 | Mono Develop | https://www.monodevelop.com/ |
 | Pure Basic | https://www.purebasic.com/ |
 | Qt Creator | https://www.qt.io/product/development-tools |
