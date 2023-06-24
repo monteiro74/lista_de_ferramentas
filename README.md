@@ -523,6 +523,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Anvil | https://anvil.works/ |
 | Lazarus | https://www.lazarus-ide.org/ |
 | Xcode | https://developer.apple.com/xcode/ |
+| Lianja App Builder | https://www.lianja.com/overview/lianja-app-builder |
 
 
 
