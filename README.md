@@ -152,7 +152,6 @@ Observação: Laragon é um dos mais simples para usar!
 | QT designer  | https://www.qt.io/download |
 | QT Creator  | https://build-system.fman.io/qt-designer-download |
 | Code Lite | https://codelite.org/ |
-| Code Blocks  | http://www.codeblocks.org/ |
 | BlueJ  | https://www.bluej.org/ |
 | Dev-pascal  | http://bloodshed.net/Dev-Pascal |
 | U++ Framework  | https://www.ultimatepp.org/ |
