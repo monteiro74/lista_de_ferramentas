@@ -63,6 +63,8 @@ Critérios para uma ferramenta entrar nesta lista:
 
 Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
 
+[Volta ao sumário](#lista-de-ferramentas)<br>
+
 ---
 ## 2. Modelagem de banco de dados, diagrama entidade relacionamento
 
@@ -78,6 +80,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | DBeaver Community | https://dbeaver.io/download/    |
 | BR Modelo |  https://www.brmodeloweb.com/lang/pt-br/index.html |
 
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 3. Bancos de dados
@@ -96,6 +99,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Db-fiddle |  https://www.db-fiddle.com/ |
 | db 4 free |  https://www.db4free.net/index.php?language=pt |
 
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ```
 Observação: Alguns bancos de dados (citados acima) comentados no PPGCA e/ou usados no projeto MRPA.
@@ -119,6 +123,7 @@ Recomendados para uso em sala de aula (MySQL ou MariaDB), estes podem ser instal
 Observação: Laragon é um dos mais simples para usar!
 ```
 
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 4. Administração de banco de dados
@@ -135,6 +140,7 @@ Observação: Laragon é um dos mais simples para usar!
 | SQLyog Community  | https://github.com/webyog/sqlyog-community/wiki/Downloads |
 | Toad for MySQL |  https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
 
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 5. IDEs
@@ -167,6 +173,8 @@ Observação: Laragon é um dos mais simples para usar!
 | Windev  | https://windev.com/windevmobile/WM-Express.htm |
 | Alpha  | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
 | Wakanda  | https://wakanda.github.io/download.html |
+
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ### 5.1. Turbo Pascal, Delphi, Lazarus e suas variações
