@@ -14,10 +14,10 @@ Critérios para uma ferramenta entrar nesta lista:
 
 
 [1. Modelagem UML (Unified Modeling Language), diagramas UML](#1-modelagem-uml-diagramas-uml-bpmn)<br>
-[2. Modelagem de banco de dados, DER (Diagrama Entidade Relacionamento)](#2-Modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
-[3. Bancos de dados](#3-Bancos-de-dados)<br>
-[4. Administração de banco de dados](#4-Administração-de-banco-de-dados)<br>
-[5. IDE (Integrated Development Environment)](#5-IDEs)<br>
+[2. Modelagem de banco de dados, DER (Diagrama Entidade Relacionamento)](#2-modelagem-de-banco-de-dados-diagrama-entidade-relacionamento)<br>
+[3. Bancos de dados](#3-bancos-de-dados)<br>
+[4. Administração de banco de dados](#4-administração-de-banco-de-dados)<br>
+[5. IDE (Integrated Development Environment)](#5-ides)<br>
 [6. Editores de códigos](#6-Editores-de-códigos)<br>
 [7. Prototipação, wireframe, mockups](#7-prototipação-wireframe-mockups)<br>
 [8. Git, e versionamento](#8-git-e-versionamento)<br>
@@ -189,10 +189,9 @@ Observação: Laragon é um dos mais simples para usar!
 | Elevate Web Builder  | https://www.elevatesoft.com/products?category=ewb |
 
 
-
 Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -207,7 +206,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Light Table  | http://lighttable.com/ |
 | Geany  | https://geany.org/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -226,7 +225,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 | Penpot | https://penpot.app/ |
 
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 8. Git e versionamento
@@ -240,7 +239,7 @@ Outras IDEs: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_
 
 Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -253,7 +252,7 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 | Mantis Bug Tracker | https://www.mantisbt.org/ |
 
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -272,7 +271,7 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 | Kaggle |  https://www.kaggle.com/code |
 | Replit |  https://replit.com/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ---
@@ -280,7 +279,7 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
 Página comentando várias linux sob o ponto de vista do desenvolvimento, https://www.vpsserver.com/best-linux-distros-for-programming/.
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 12. Desenvolvimento Mobile
@@ -299,7 +298,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Kalipso |  https://www.kalipsostudio.com/ |
 | Viziapps | https://viziapps.com/features-pricing |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -313,7 +312,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Postman |  https://www.postman.com/downloads/ |
 | Swagger |  https://swagger.io/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 14. Armazenamento distribuído, bancos distribuídos, file systems distribuídos
@@ -327,7 +326,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Swarm |  https://ethersphere.github.io/swarm-home/# |
 | Keops |  https://keops.cc/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -350,7 +349,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Nethereum blockchain  | https://nethereum.com/ <br> https://github.com/Nethereum/Nethereum.UI.Desktop |
 | Embark  | https://framework.embarklabs.io/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ---
@@ -363,7 +362,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Flowchartocode | http://www.cocodex.com/flowchart-to-code/index.html |
 | Flowgorithm  | http://www.flowgorithm.org/index.html | 
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ---
@@ -375,7 +374,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | PeerJS  | https://peerjs.com/ |
 | Dat  | https://dat-ecosystem.org/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ---
@@ -390,7 +389,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Low code  | https://www.joget.org/ |
 | Visual Lansa  | https://lansa.com/products/visual-lansa/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ---
@@ -403,7 +402,7 @@ Algumas bibliotecas/frameworks interessantes...
 | GrapeJS  | https://grapesjs.com/    |
 | Leafleetjs  | https://leafletjs.com/examples/quick-start/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -421,7 +420,7 @@ Algumas bibliotecas/frameworks interessantes...
 | TerraBrasilis  | http://terrabrasilis.dpi.inpe.br/servicos-disponiveis/ |
 | Traccar  | https://www.traccar.org/geofences/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 21. Visualização de dados
@@ -434,7 +433,7 @@ Algumas bibliotecas/frameworks interessantes...
 | Looker Studio  | https://lookerstudio.google.com/overview |
 | Scimago  Graphica  | https://www.graphica.app/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ---
@@ -446,7 +445,7 @@ Algumas bibliotecas/frameworks interessantes...
 | Anaconda |  https://anaconda.org/anaconda/notebook |
 | PHP-ML |  https://php-ml.readthedocs.io/en/latest/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 ---
@@ -460,7 +459,7 @@ Algumas bibliotecas/frameworks interessantes...
 | NDoc  | https://ndoc.sourceforge.net/ |
 | Confluence | https://www.atlassian.com/software/confluence |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -477,7 +476,7 @@ Algumas bibliotecas/frameworks interessantes...
 
 Outras listas: Ferramentas para análise estática de código: https://github.com/analysis-tools-dev/static-analysis#csharp
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -490,7 +489,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | NSIS  | https://nsis.sourceforge.io/Main_Page |
 | IzPack  | http://izpack.org/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
 ## 26. Gerenciamento de projeto, Gantt e Kanban
@@ -504,7 +503,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Zentao  | https://www.zentao.pm/page/zentao-pricing.html |
 | qdPM  | https://qdpm.net/ |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -539,7 +538,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Xcode | https://developer.apple.com/xcode/ |
 | Lianja App Builder | https://www.lianja.com/overview/lianja-app-builder |
 
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -556,6 +555,7 @@ Ranking de bancos de dados https://db-engines.com/en/ranking <br>
 Ranking de linguagens de programação https://www.tiobe.com/tiobe-index/ <br>
 Eiffel https://www.eiffel.org/doc/eiffelstudio <br> 
 
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 <!--
 ---
