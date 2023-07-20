@@ -18,7 +18,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [3. Bancos de dados](#3-bancos-de-dados)<br>
 [4. Administração de banco de dados](#4-administração-de-banco-de-dados)<br>
 [5. IDE (Integrated Development Environment)](#5-ides)<br>
-[6. Editores de códigos](#6-Editores-de-códigos)<br>
+[6. Editores de códigos](#6-editores-de-códigos)<br>
 [7. Prototipação, wireframe, mockups](#7-prototipação-wireframe-mockups)<br>
 [8. Git, e versionamento](#8-git-e-versionamento)<br>
 [9. Gestão de tickets](#9-gestão-de-tickets)<br>
@@ -40,7 +40,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [25. Instaladores](#25-instaladores)<br>
 [26. Gerenciamento de projeto, Gantt e Kanban](#26-gerenciamento-de-projeto-gantt-e-kanban)<br>
 [27. RAD](#27-rad-rapid-application-development)<br>
-[27. Diversos](#27-rad)<br>
+[28. Diversos](#28-diversos)<br>
 
 
 ---
