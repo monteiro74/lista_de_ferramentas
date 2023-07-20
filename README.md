@@ -572,7 +572,7 @@ Atom https://github.blog/2022-06-08-sunsetting-atom/
 Aviso: Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: jun/2023. 
-Última atualização em: jun/2023.
+Última atualização em: 20/jun/2023.
 ```
 
 
