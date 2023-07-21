@@ -106,6 +106,12 @@ Observação: Alguns bancos de dados (citados acima) comentados no PPGCA e/ou us
 ```
 
 
+```
+Site para treinamento com SQL: 
+https://www.db-fiddle.com/
+```
+
+
 ### 3.1 Bancos de dados "empacotados" com Apache e PHP
 
 Recomendados para uso em sala de aula (MySQL ou MariaDB), estes podem ser instalados no Windows ou Linux via pacotes como XAMPP, WAMP ou Laragon
