@@ -41,6 +41,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [26. Gerenciamento de projeto, Gantt e Kanban](#26-gerenciamento-de-projeto-gantt-e-kanban)<br>
 [27. RAD](#27-rad-rapid-application-development)<br>
 [28. Diversos](#28-diversos)<br>
+[29. Questões para seleção de linguagens e ferramentas](#questões-para-seleção-de-linguagens-e-ferramentas)<br>
 
 
 ---
