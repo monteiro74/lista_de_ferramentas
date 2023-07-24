@@ -564,6 +564,7 @@ Eiffel https://www.eiffel.org/doc/eiffelstudio <br>
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
 <!--
+
 ---
 ## 29. Projetos mortos
 
@@ -571,15 +572,59 @@ Appcelerator https://www.axway.com/en/appcelerator-end-of-life
 
 Atom https://github.blog/2022-06-08-sunsetting-atom/ 
 
+
 -->
+
+
+
+---
+# Questões para seleção de linguagens e ferramentas
+
+Uma pequena lista de perguntas que poderão nortear o processo de escolha de uma determinada linguagem, IDE ou RAD.
+
+1. A ferramenta, RAD ou IDE usam alguma linguagem lista no índice Tiobe ?<br>
+1.1. Nos últimos 10 anos essa linguagem mudou de posição se aproximando para os níveis mais altos?<br>
+2. Quantas pessoas você conhece na sua cidade ou bairro que trabalham com essa linguagem ?<br>
+2.1 No seu trabalho, quantos colegas usam essa linguagem ?<br>
+3. Quantos sites especializados fizeram alguma análise (ou reportagem) sobre essa linguagem ? (nos últimos 3 anos)<br>
+3.1 Existem artigos científicos comentando ou criticando essa linguagem ? (nos últimos 3 anos)<br>
+4. Existem fórums, grupos de usuários ou redes sociais abertas ao público e mantidas pela comunidade, nas quais você possa fazer perguntas ? <br>
+4.1 A empresa mantém um fórum particular para que qualquer um possa fazer perguntas ?<br>
+5. Existem livros (ou ebooks) sobre essa linguagem (ou ferramenta) em português ?<br>
+6. Existem canais de vídeos sobre essa linguagem mantidos pela comunidade ?<br>
+6.1 Existem canais de vídeos sobre essa linguagem mantidos pelo fabricante ?<br>
+7. Em qual ano saiu a última grande versão ?<br>
+7.1 Todo ano tem um lançamento de uma versão nova ou apenas atualizações ?<br>
+7.2 As atualizações são gratuítas ?<br>
+8. Essa linguagem é multi plataforma (roda em Linux, Windows e Mac) ?<br>
+8.1 Essa linguagem permite o desenvolvimento mobile (principalmente Android) ?<br>
+8.2 Essa linguagem permite o desenvolvimento web responsivo ?<br>
+9. Existe treinamentos presenciais sobre essa linguagem (ou ferramenta) ?<br>
+9.1 Existem empresas no Brasil que ministram treinamento sobre essa linguagem ? quantas ? Nas principais capitais ?<br>
+10. O governo federal, os municípios e os estaduais adotam essa linguagem ?<br>
+11. Essa ferramenta tem uma versão gratutíta ? quais as limitações ?<br>
+12. Quais os valores para aquisição dessa linguagem/IDE ? <br>
+12.1 É a mais barata compara com seus concorrentes ?<br>
+13. Qual o salário médio de programadores/devs que usam essa linguagem ?<br>
+13.1 Você conhece um canal ou site que divulga vagas para essa linguagem ? São várias e frequêntes ?<br>
+14. Essa linguagem é usada nas faculdades da sua cidade ?<br>
+14.1 Seu TCC foi feito nessa linguagem ?<br>
+15. Você conhece software houses na sua cidade que usam essa linguagem ?<br>
+16. Você tem conhecimento de quais paises estão aumentando o uso dessa linguagem ?<br>
+17. Onde no exterior e em qual estado do Brasil estão as maiores comunicades de usuários dessa linguagem ?<br>
+17.1 Existem encontros presenciais de usuários ?<br>
+
+
+
+
+
+
 
 
 
 
 
 ---
-
-
 
 
 ```
