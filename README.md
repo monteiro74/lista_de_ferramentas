@@ -583,6 +583,9 @@ Atom https://github.blog/2022-06-08-sunsetting-atom/
 Uma pequena lista de perguntas que poderão nortear o processo de escolha de uma determinada linguagem, IDE ou RAD.
 
 1. A ferramenta, RAD ou IDE usam alguma linguagem lista no índice Tiobe ?<br>
+https://www.tiobe.com/tiobe-index/ <br>
+ou <br>
+https://survey.stackoverflow.co/2023/#overview <br>
 1.1. Nos últimos 10 anos essa linguagem mudou de posição se aproximando para os níveis mais altos?<br>
 2. Quantas pessoas você conhece na sua cidade ou bairro que trabalham com essa linguagem ?<br>
 2.1 No seu trabalho, quantos colegas usam essa linguagem ?<br>
