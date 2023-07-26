@@ -641,24 +641,31 @@ Primeira postagem em: jun/2023.
 
 
 
-Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
-[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
-
-
-Contribuições de:<br>
-<a href="https://github.com/monteiro74/lista_de_ferramentas/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=monteiro74/lista_de_ferramentas" />
-</a>
-
-
-
-
-
-
-
-
 ```
 Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```
+
+Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/lista_de_ferramentas)
+
+Pulse:<br>
+https://github.com/monteiro74/lista_de_ferramentas/pulse<BR>
+
+Contribuições de:<br>
+<a href="https://github.com/monteiro74/lista_de_ferramentas/contributors">
+  <img src="https://contrib.rocks/image?repo=monteiro74/lista_de_ferramentas" />
+</a>
+
+Histórico de frequência de código:<BR>
+https://github.com/monteiro74/lista_de_ferramentas/graphs/code-frequency<BR>
+
+Atividade de commits:<BR>
+https://github.com/monteiro74/lista_de_ferramentas/graphs/commit-activity<BR>
+
+Trafego:<BR>
+https://github.com/monteiro74/lista_de_ferramentas/graphs/traffic<BR>
+
+[Volta ao sumário](#lista-de-ferramentas)<br>
+
