@@ -644,9 +644,10 @@ Primeira postagem em: jun/2023.
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
 
+
 Contribuições de:<br>
-<a href="https://github.com/monteiro74/tutorial_python/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=monteiro74/tutorial_python" />
+<a href="https://github.com/monteiro74/lista_de_ferramentas/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=monteiro74/lista_de_ferramentas" />
 </a>
 
 
