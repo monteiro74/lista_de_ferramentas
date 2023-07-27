@@ -650,6 +650,21 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/lista_de_ferramentas)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=dark)](https://git.io/streak-stats)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
 Pulse:<br>
 https://github.com/monteiro74/lista_de_ferramentas/pulse<BR>
 
@@ -668,7 +683,7 @@ Trafego:<BR>
 https://github.com/monteiro74/lista_de_ferramentas/graphs/traffic<BR>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=dark)](https://git.io/streak-stats)
+
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
