@@ -667,5 +667,8 @@ https://github.com/monteiro74/lista_de_ferramentas/graphs/commit-activity<BR>
 Trafego:<BR>
 https://github.com/monteiro74/lista_de_ferramentas/graphs/traffic<BR>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=dark)](https://git.io/streak-stats)
+
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
