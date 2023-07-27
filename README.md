@@ -629,6 +629,8 @@ https://survey.stackoverflow.co/2023/#overview <br>
 
 
 ---
+# Notas, Avisos, Observações, Estatísticas
+
 
 
 ```
