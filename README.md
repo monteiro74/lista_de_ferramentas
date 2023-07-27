@@ -629,7 +629,7 @@ https://survey.stackoverflow.co/2023/#overview <br>
 
 
 ---
-# Notas, Avisos, Observações, Estatísticas
+# Avisos, licença, observações, estatísticas
 
 
 
@@ -659,7 +659,7 @@ Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
 
 
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
 
