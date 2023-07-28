@@ -41,7 +41,9 @@ Critérios para uma ferramenta entrar nesta lista:
 [26. Gerenciamento de projeto, Gantt e Kanban](#26-gerenciamento-de-projeto-gantt-e-kanban)<br>
 [27. RAD](#27-rad-rapid-application-development)<br>
 [28. Diversos](#28-diversos)<br>
-[29. Questões para seleção de linguagens e ferramentas](#questões-para-seleção-de-linguagens-e-ferramentas)<br>
+[29. Geradores de relatórios e BI](#29-geradores-de-relatórios-e-bi)<br>
+[30. Questões para seleção de linguagens e ferramentas](#questões-para-seleção-de-linguagens-e-ferramentas)<br>
+
 
 
 ---
@@ -564,6 +566,40 @@ Eiffel https://www.eiffel.org/doc/eiffelstudio <br>
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
+
+
+
+
+
+
+
+
+
+
+---
+## 29. Geradores de relatórios e BI
+
+| Ferramenta       | URL |
+| ------------  | --- |
+| Jasper Reports | https://community.jaspersoft.com/project/jasperreports-library  |
+| Jarper Studio  | https://community.jaspersoft.com/project/jaspersoft-studio  |
+| BIRT | https://eclipse-birt.github.io/birt-website/ |
+| Spagobi | https://spagobi.readthedocs.io/en/latest/ |
+| Seal Report | https://sealreport.org/ |
+| Fast Reports | https://github.com/FastReports/FastReport |
+| Fortes Reports | https://github.com/fortesinformatica/fortesreport-ce |
+| Fortes 4 Lazarus | https://sourceforge.net/projects/fortes4lazarus/ |
+| Metabase | https://www.metabase.com/ |
+| Bold Reports | https://www.boldreports.com/embedded-reporting/javascript-report-designer?utm_source=google_ads&utm_medium=cpc&utm_campaign=boldreports_search_nonus_gadwjune2023&adgroup=140760532225&adpos=&creative=622245529418&gclid=EAIaIQobChMI6JW-iJCygAMVHkBIAB2kGwgWEAAYAyAAEgKdw_D_BwE |
+| Report Builder | https://www.codeproject.com/Articles/23816/Report-Builder-2 |
+
+
+
+
+
+
+
+
 <!--
 
 ---
@@ -637,7 +673,7 @@ https://survey.stackoverflow.co/2023/#overview <br>
 Aviso: Este material esta recebendo atualizações frequentes. 
 As informações aqui contidas podem ser alteradas sem aviso prévio.
 Primeira postagem em: jun/2023. 
-Última atualização em: 20/jun/2023.
+Última atualização em: 28/jun/2023.
 ```
 
 
