@@ -593,29 +593,22 @@ Eiffel https://www.eiffel.org/doc/eiffelstudio <br>
 | Bold Reports | https://www.boldreports.com/embedded-reporting/javascript-report-designer?utm_source=google_ads&utm_medium=cpc&utm_campaign=boldreports_search_nonus_gadwjune2023&adgroup=140760532225&adpos=&creative=622245529418&gclid=EAIaIQobChMI6JW-iJCygAMVHkBIAB2kGwgWEAAYAyAAEgKdw_D_BwE |
 | Report Builder | https://www.codeproject.com/Articles/23816/Report-Builder-2 |
 
-
-
-
-
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 <!--
 
 ---
 ## 29. Projetos mortos
-
 Appcelerator https://www.axway.com/en/appcelerator-end-of-life
-
 Atom https://github.blog/2022-06-08-sunsetting-atom/ 
-
 
 -->
 
 
 
 ---
-# Questões para seleção de linguagens e ferramentas
+# 30. Questões para seleção de linguagens e ferramentas
 
 Uma pequena lista de perguntas que poderão nortear o processo de escolha de uma determinada linguagem, IDE ou RAD.
 
@@ -654,10 +647,7 @@ https://survey.stackoverflow.co/2023/#overview <br>
 17. Onde no exterior e em qual estado do Brasil estão as maiores comunicades de usuários dessa linguagem ?<br>
 17.1 Existem encontros presenciais de usuários ?<br>
 
-
-
-
-
+[Volta ao sumário](#lista-de-ferramentas)<br>
 
 
 
@@ -679,11 +669,15 @@ Primeira postagem em: jun/2023.
 
 
 
+
 ```
 Licença: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```
+
+
+
 
 Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/lista_de_ferramentas)
@@ -695,6 +689,8 @@ Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
 
 
 
+
+
 Pulse:<br>
 https://github.com/monteiro74/lista_de_ferramentas/pulse<BR>
 
@@ -702,6 +698,8 @@ Contribuições de:<br>
 <a href="https://github.com/monteiro74/lista_de_ferramentas/contributors">
   <img src="https://contrib.rocks/image?repo=monteiro74/lista_de_ferramentas" />
 </a>
+
+
 
 Histórico de frequência de código:<BR>
 https://github.com/monteiro74/lista_de_ferramentas/graphs/code-frequency<BR>
@@ -711,6 +709,7 @@ https://github.com/monteiro74/lista_de_ferramentas/graphs/commit-activity<BR>
 
 Trafego:<BR>
 https://github.com/monteiro74/lista_de_ferramentas/graphs/traffic<BR>
+
 
 
 
