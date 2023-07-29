@@ -578,7 +578,7 @@ Eiffel https://www.eiffel.org/doc/eiffelstudio <br>
 
 
 ---
-## 29. Geradores de relatórios e BI
+## 29. Geradores de relatórios, gráficos e BI
 
 | Ferramenta       | URL |
 | ------------  | --- |
@@ -593,6 +593,14 @@ Eiffel https://www.eiffel.org/doc/eiffelstudio <br>
 | Metabase | https://www.metabase.com/ |
 | Bold Reports | https://www.boldreports.com/embedded-reporting/javascript-report-designer?utm_source=google_ads&utm_medium=cpc&utm_campaign=boldreports_search_nonus_gadwjune2023&adgroup=140760532225&adpos=&creative=622245529418&gclid=EAIaIQobChMI6JW-iJCygAMVHkBIAB2kGwgWEAAYAyAAEgKdw_D_BwE |
 | Report Builder | https://www.codeproject.com/Articles/23816/Report-Builder-2 |
+| Jsreport | https://github.com/jsreport/jsreport |
+| WebDataRocks | https://www.webdatarocks.com/ |
+| Recharts | https://recharts.org/en-US |
+| KoolReport | https://www.koolreport.com/ |
+| Reportico | https://www.reportico.org/site2/index.php |
+| PHP Reports | https://jdorn.github.io/php-reports/ |
+| PHPJasper | https://github.com/PHPJasper/phpjasper |
+
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
