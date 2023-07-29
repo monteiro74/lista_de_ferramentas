@@ -43,6 +43,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [28. Diversos](#28-diversos)<br>
 [29. Geradores de relatórios e BI](#29-geradores-de-relatórios-e-bi)<br>
 [30. Questões para seleção de linguagens e ferramentas](#30-questões-para-seleção-de-linguagens-e-ferramentas)<br>
+[Avisos, licenças, observações e estatísticas](#avisos-licença-observações-estatísticas)<br>
 
 
 
