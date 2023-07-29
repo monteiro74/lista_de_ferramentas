@@ -41,7 +41,7 @@ Critérios para uma ferramenta entrar nesta lista:
 [26. Gerenciamento de projeto, Gantt e Kanban](#26-gerenciamento-de-projeto-gantt-e-kanban)<br>
 [27. RAD](#27-rad-rapid-application-development)<br>
 [28. Diversos](#28-diversos)<br>
-[29. Geradores de relatórios e BI](#29-geradores-de-relatórios-e-bi)<br>
+[29. Geradores de relatórios e BI](#29-geradores-de-relatórios-gráficos-e-bi)<br>
 [30. Questões para seleção de linguagens e ferramentas](#30-questões-para-seleção-de-linguagens-e-ferramentas)<br>
 [Avisos, licenças, observações e estatísticas](#avisos-licença-observações-estatísticas)<br>
 
