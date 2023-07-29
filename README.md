@@ -1,6 +1,6 @@
 # Lista de Ferramentas
 
-Lista de ferramentas para modelagem, documentação e desenvolvimento de sistemas e bancos de dados.
+Lista de ferramentas para desenvolvimento, modelagem, diagramação e documentação de sistemas e bancos de dados.
 
 
 ```
