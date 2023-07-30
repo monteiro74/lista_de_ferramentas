@@ -149,6 +149,7 @@ Observação: Laragon é um dos mais simples para usar!
 | phpMyAdmin |  https://www.phpmyadmin.net/ |
 | SQLyog Community  | https://github.com/webyog/sqlyog-community/wiki/Downloads |
 | Toad for MySQL |  https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
+| Beekeeper Studio | https://github.com/beekeeper-studio/beekeeper-studio |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
