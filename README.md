@@ -83,6 +83,8 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Draw IO |  https://www.drawio.com/ |
 | DBeaver Community | https://dbeaver.io/download/    |
 | BR Modelo |  https://www.brmodeloweb.com/lang/pt-br/index.html |
+| SQL Power Architect Community Edition | https://github.com/SQLPower/power-architect/releases |
+| SQL Power Architect Data Modeling & Profiling Tool | https://bestofbi.com/products/sql-power-architect-data-modeling/ |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
