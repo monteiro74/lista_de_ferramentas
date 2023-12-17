@@ -310,6 +310,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Modular |  https://www.kodular.io/ |
 | Kalipso |  https://www.kalipsostudio.com/ |
 | Viziapps | https://viziapps.com/features-pricing |
+| Avalonia | https://avaloniaui.net/ |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
