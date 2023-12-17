@@ -105,6 +105,7 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Db-fiddle |  https://www.db-fiddle.com/ |
 | db 4 free |  https://www.db4free.net/index.php?language=pt |
 
+
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
 ```
@@ -152,6 +153,7 @@ Observação: Laragon é um dos mais simples para usar!
 | SQLyog Community  | https://github.com/webyog/sqlyog-community/wiki/Downloads |
 | Toad for MySQL |  https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
 | Beekeeper Studio | https://github.com/beekeeper-studio/beekeeper-studio |
+| Hash corp vault for MariaDB | https://mariadb.com/kb/en/hashicorp-vault-and-mariadb/ |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
@@ -186,6 +188,7 @@ Observação: Laragon é um dos mais simples para usar!
 | Windev  | https://windev.com/windevmobile/WM-Express.htm |
 | Alpha  | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
 | Wakanda  | https://wakanda.github.io/download.html |
+| GrapeJS | https://grapesjs.com/ |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
@@ -292,6 +295,8 @@ Outros clientes para Windows: https://git-scm.com/download/gui/windows
 
 Página comentando várias linux sob o ponto de vista do desenvolvimento, https://www.vpsserver.com/best-linux-distros-for-programming/.
 
+Plasma Mobile https://plasma-mobile.org/
+
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
 ---
@@ -311,6 +316,7 @@ Página comentando várias linux sob o ponto de vista do desenvolvimento, https:
 | Kalipso |  https://www.kalipsostudio.com/ |
 | Viziapps | https://viziapps.com/features-pricing |
 | Avalonia | https://avaloniaui.net/ |
+| Plasma Mobile | https://plasma-mobile.org/ |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
