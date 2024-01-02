@@ -478,6 +478,8 @@ Algumas bibliotecas/frameworks interessantes...
 | DelphiCodeToDoc  | https://dephicodetodoc.sourceforge.net/ |
 | NDoc  | https://ndoc.sourceforge.net/ |
 | Confluence | https://www.atlassian.com/software/confluence |
+| Natural Docs | https://www.naturaldocs.org/ |
+| phpDox | https://phpdox.net/index.html |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
