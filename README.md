@@ -612,6 +612,7 @@ Eiffel https://www.eiffel.org/doc/eiffelstudio <br>
 | Reportico | https://www.reportico.org/site2/index.php |
 | PHP Reports | https://jdorn.github.io/php-reports/ |
 | PHPJasper | https://github.com/PHPJasper/phpjasper |
+| SAP Crystal Reports | https://www.sap.com/brazil/products/technology-platform/crystal-reports.html |
 
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
