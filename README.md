@@ -670,18 +670,18 @@ https://survey.stackoverflow.co/2023/#overview
 20. Essa linguagem permite o desenvolvimento web responsivo ?
 21. Existe treinamentos presenciais sobre essa linguagem (ou ferramenta) ?
 22. Existem empresas no Brasil que ministram treinamento sobre essa linguagem ? quantas ? Nas principais capitais ?
-23. O governo federal, os municípios e os estaduais adotam essa linguagem ?
+23. O governo federal, os municípios e os governos estaduais adotam essa linguagem ?
 24. Essa ferramenta tem uma versão gratutíta ? quais as limitações ?
 25. Quais os valores para aquisição dessa linguagem/IDE ?
-26. É a mais barata compara com seus concorrentes ?
+26. É a mais barata comparada com seus concorrentes ?
 27. Qual o salário médio de programadores/devs que usam essa linguagem ?
 28. Você conhece um canal ou site que divulga vagas para essa linguagem ? São várias e frequêntes ?
 29. Essa linguagem é usada nas faculdades da sua cidade ?
-30. Seu TCC foi feito nessa linguagem ?
-31. Você conhece software houses na sua cidade que usam essa linguagem ?
-32. Você tem conhecimento de quais paises estão aumentando o uso dessa linguagem ?
+30. Seu TCC foi feito nessa linguagem ou ferramenta?
+31. Você conhece software houses na sua cidade que usam essa linguagem ou ferramenta?
+32. Você tem conhecimento de quais paises estão aumentando o uso dessa linguagem ou ferramenta?
 33. Onde no exterior e em qual estado do Brasil estão as maiores comunicades de usuários dessa linguagem ?
-34. Existem encontros presenciais de usuários ?
+34. Existem encontros presenciais de grupos usuários na sua cidade?
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
