@@ -484,7 +484,7 @@ Algumas bibliotecas/frameworks interessantes...
 | Confluence | https://www.atlassian.com/software/confluence |
 | Natural Docs | https://www.naturaldocs.org/ |
 | phpDox | https://phpdox.net/index.html |
-| Wyam | wyam.io |
+| Wyam | https://github.com/Wyamio/Wyam |
 | Docfx | https://dotnet.github.io/docfx/ |
 | GhostDoc Community | https://submain.com/download/ghostdoc/community/ |
 | Sandcastle Help File Builder (SHFB) | https://github.com/EWSoftware/SHFB | 
