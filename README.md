@@ -4,7 +4,7 @@ Lista de ferramentas para desenvolvimento, modelagem, diagramação e documenta�
 
 
 ```
-Critérios para uma ferramenta entrar nesta lista:
+Critérios para entrar ferramenta nesta lista:
 1. São materiais de suporte ao projeto e desenvolvimento de sistemas e bancos de dados.
 2. Material foi ou poderá ser usado em sala de aula.
 3. Material foi usado durante a pós do PPGCA-Unisinos.
