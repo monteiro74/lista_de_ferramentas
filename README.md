@@ -568,22 +568,19 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 ---
 ## 28. Diversos
 
-Compilador Xbase https://harbour.github.io/about <br>
-XSharp https://www.xsharp.eu/ <br>
-Xailer https://www.xailer.com/wp/en/start/ <br>
-TCL TK https://www.tcl.tk/ <br> 
-Tersus http://www.tersus.com/ <br> 
-Ranking de bancos de dados https://db-engines.com/en/ranking <br>
-Ranking de linguagens de programação https://www.tiobe.com/tiobe-index/ <br>
-Eiffel https://www.eiffel.org/doc/eiffelstudio <br> 
+
+| Ferramenta       | URL |
+| ------------  | --- |
+| Compilador Xbase | https://harbour.github.io/about <br> |
+| XSharp | https://www.xsharp.eu/ <br> |
+| Xailer | https://www.xailer.com/wp/en/start/ <br> |
+| TCL TK | https://www.tcl.tk/ <br>  |
+| Tersus | http://www.tersus.com/ <br> |
+| Ranking de bancos de dados | https://db-engines.com/en/ranking <br> |
+| Ranking de linguagens de programação | https://www.tiobe.com/tiobe-index/ <br> |
+| Eiffel | https://www.eiffel.org/doc/eiffelstudio <br>  |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
-
-
-
-
-
-
 
 
 
@@ -603,7 +600,7 @@ Eiffel https://www.eiffel.org/doc/eiffelstudio <br>
 | Fortes Reports | https://github.com/fortesinformatica/fortesreport-ce |
 | Fortes 4 Lazarus | https://sourceforge.net/projects/fortes4lazarus/ |
 | Metabase | https://www.metabase.com/ |
-| Bold Reports | https://www.boldreports.com/embedded-reporting/javascript-report-designer?utm_source=google_ads&utm_medium=cpc&utm_campaign=boldreports_search_nonus_gadwjune2023&adgroup=140760532225&adpos=&creative=622245529418&gclid=EAIaIQobChMI6JW-iJCygAMVHkBIAB2kGwgWEAAYAyAAEgKdw_D_BwE |
+| Bold Reports | https://www.boldreports.com/embedded-reporting/javascript-report-designer |
 | Report Builder | https://www.codeproject.com/Articles/23816/Report-Builder-2 |
 | Jsreport | https://github.com/jsreport/jsreport |
 | WebDataRocks | https://www.webdatarocks.com/ |
@@ -638,11 +635,11 @@ Uma pequena lista de perguntas que poderão nortear o processo de escolha de uma
 https://www.tiobe.com/tiobe-index/ <br>
 ou <br>
 https://survey.stackoverflow.co/2023/#overview <br>
-1.1. Nos últimos 10 anos essa linguagem ou ferramenta mudou de posição se aproximando para os níveis mais altos?<br>
-1.2. Nos últimos 10 anos essa linguagem ou ferramenta mudou de dono quantas vezes?<br>
-2. Quantas pessoas você conhece na sua cidade ou bairro que trabalham com essa linguagem ?<br>
-2.1 No seu trabalho, quantos colegas usam essa linguagem ?<br>
-3. Quantos sites especializados fizeram alguma análise (ou reportagem) sobre essa linguagem ? (nos últimos 3 anos)<br>
+2. Nos últimos 10 anos essa linguagem ou ferramenta mudou de posição se aproximando para os níveis mais altos?<br>
+3. Nos últimos 10 anos essa linguagem ou ferramenta mudou de dono quantas vezes?<br>
+4. Quantas pessoas você conhece na sua cidade ou bairro que trabalham com essa linguagem ?<br>
+5. No seu trabalho, quantos colegas usam essa linguagem ?<br>
+6. Quantos sites especializados fizeram alguma análise (ou reportagem) sobre essa linguagem ? (nos últimos 3 anos)<br>
 3.1 Existem artigos científicos comentando ou criticando essa linguagem ? (nos últimos 3 anos)<br>
 4. Existem fórums, grupos de usuários ou redes sociais abertas ao público e mantidas pela comunidade, nas quais você possa fazer perguntas ? <br>
 4.1 A empresa mantém um fórum particular para que qualquer um possa fazer perguntas ?<br>
