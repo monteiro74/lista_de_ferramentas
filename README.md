@@ -484,6 +484,17 @@ Algumas bibliotecas/frameworks interessantes...
 | Confluence | https://www.atlassian.com/software/confluence |
 | Natural Docs | https://www.naturaldocs.org/ |
 | phpDox | https://phpdox.net/index.html |
+| Wyam | wyam.io |
+| Docfx | https://dotnet.github.io/docfx/ |
+| GhostDoc Community | https://submain.com/download/ghostdoc/community/ |
+| Sandcastle Help File Builder (SHFB) | https://github.com/EWSoftware/SHFB | 
+| Atominner Pro | https://www.atomineerutils.com/ |
+| MkDocs | https://www.mkdocs.org/ |
+| Epydoc | https://epydoc.sourceforge.net/ | 
+| pdoc | https://pdoc3.github.io/pdoc/ |
+| PasDoc | https://pasdoc.github.io/ |
+| phpDocumentator | https://www.phpdoc.org/ |
+| ModularDoc | https://github.com/hailstorm75/ModularDoc |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
