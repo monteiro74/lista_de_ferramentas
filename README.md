@@ -193,6 +193,7 @@ Observação: Laragon é um dos mais simples para usar!
 | Alpha  | https://www.alphasoftware.com/alpha-software-low-code-software-pricing |
 | Wakanda  | https://wakanda.github.io/download.html |
 | GrapeJS | https://grapesjs.com/ |
+| Retool | https://retool.com/apps |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
