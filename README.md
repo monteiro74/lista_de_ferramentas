@@ -108,6 +108,10 @@ Outras ferramentas de modelagem UML https://en.wikipedia.org/wiki/List_of_Unifie
 | Database of Database  | https://dbdb.io/ |
 | Db-fiddle |  https://www.db-fiddle.com/ |
 | db 4 free |  https://www.db4free.net/index.php?language=pt |
+| MongoDB   | MongoDB Community Server https://www.mongodb.com/try/download/community <br> MongoDB Compass https://www.mongodb.com/try/download/compass <br> MongoDB Relational Migrator Download https://www.mongodb.com/try/download/relational-migrator <br>|
+
+ 
+
 
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
@@ -147,7 +151,7 @@ Observação: Laragon é um dos mais simples para usar!
 
 | Ferramenta   |  URL |
 | ------------ |  --- |
-| MySQL Workbench    | https://dev.mysql.com/downloads/workbench/ |
+| MySQL Workbench | https://dev.mysql.com/downloads/workbench/ |
 | HeidiSQL |  https://www.heidisql.com/download.php |
 | DBeaver Community | https://dbeaver.io/download/    |
 | Oracle SQL Developer  | https://www.oracle.com/database/sqldeveloper/ |
@@ -158,6 +162,7 @@ Observação: Laragon é um dos mais simples para usar!
 | Toad for MySQL |  https://www.quest.com/products/toad-edge/toad-edge-mysql.aspx |
 | Beekeeper Studio | https://github.com/beekeeper-studio/beekeeper-studio |
 | Hash corp vault for MariaDB | https://mariadb.com/kb/en/hashicorp-vault-and-mariadb/ |
+| Studio 3T Free for MongoDB | https://studio3t.com/free/|
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
