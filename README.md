@@ -600,6 +600,7 @@ Outras listas: Ferramentas para análise estática de código: https://github.co
 | Ranking de bancos de dados | https://db-engines.com/en/ranking <br> |
 | Ranking de linguagens de programação | https://www.tiobe.com/tiobe-index/ <br> |
 | Eiffel | https://www.eiffel.org/doc/eiffelstudio <br>  |
+| Formatar Json | https://formatarjson.com.br <br>  |
 
 [Volta ao sumário](#lista-de-ferramentas)<br>
 
